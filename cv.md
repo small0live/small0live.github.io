@@ -3,9 +3,11 @@ layout: page
 title: My CV
 subtitle: An abbreviated version of my curriculum vitae highlighting some recent accomplishments, publications, presentations, and experience.
 ---
-
+<hr>
+<p></p>
 <div style="text-align: center; "><a href="{{ '/assets/OBNewton_CV2023.pdf' | prepend: site.baseurl }}"><strong>Click here to view and download my complete CV as a PDF.</strong></a> </div>
-
+<p></p>
+<hr>
 
 ### RECOGNITION
 
@@ -70,7 +72,7 @@ Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliq
 
 Postdoctoral Research Associate - **University of Central Florida** <span style="float: right; ">January 2023 - Present</span>  
 
-Management of research activities and staff for multimillion dollar projects funded by major organizations (DARPA, National Science Foundation, Air Force Office of Scientific Research) applying mixed methods to model human behavior, cognition, and performance in (a) individuals and groups, (b) complex operational settings, and (c) with emerging technologies.
+Management of research activities and staff for multimillion dollar projects funded by major organizations (DARPA, National Science Foundation, Air Force Office of Scientific Research) applying mixed methods to model human behavior, cognition, and performance (a) in individuals and groups, (b) in complex operational settings, and (c) with emerging technologies.
 <!--_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
 Technologies used   -->
 
