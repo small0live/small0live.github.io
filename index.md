@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<!-- <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img"> -->
 
 <div id="describe-text">
 <div style="text-align: center; "><a href="https://graduate.ucf.edu/profile/olivia-newton"><strong>Click here to read a short bio of me by the University of Central Florida.</strong></a></div>
