@@ -1,5 +1,5 @@
 # Site settings
-title: Olivia B. Newton
+title: Olivia B. Newton, Ph.D.
 description: >
   ...
 
@@ -8,9 +8,9 @@ url: "https://small0live.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Olivia
-  github: github
-  linkedin: linkedin
-  email: example@email.com
+  github: small0live
+  linkedin: olivia-b-newton
+  email: olivia.newton@ucf.edu
 
 
 # Syntax highlighting
