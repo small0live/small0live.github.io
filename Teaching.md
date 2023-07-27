@@ -4,7 +4,7 @@ title: Teaching
 subtitle: Reflections of My Expertise, Experience, and Education
 ---
 
-<p align="justify">Through formal training combined with research and teaching experience, I have developed expertise that makes me well suited to teach a number of topics across the cognitive, social, and computational sciences including but not limited to: </p>
+<p align="justify">Through formal training combined with research and teaching experience, I have developed knowledge and skills that make me well suited to teach a number of topics across the cognitive, social, and computational sciences including but not limited to: </p>
 
 <div style="text-align: center;line-height: 2"> 
 human cognition <strong>•</strong> learning and instruction <strong>•</strong> group behavior <strong>•</strong> human-computer interaction <strong>•</strong> data and information visualization <strong>•</strong> data analytics <strong>•</strong> modeling and simulation <strong>•</strong> complex adaptive systems <strong>•</strong> digital ethics <strong>•</strong> epistemology <strong>•</strong> research methods <strong>•</strong> statisics and probability <strong>•</strong> psychometrics.
