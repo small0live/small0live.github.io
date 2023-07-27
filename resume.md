@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-subtitle: An abbreviated version of my curriculum vitae highlighting recent accomplishments, pubications, and experience. You can view and download my complete CV as a PDF.
+subtitle: An abbreviated version of my curriculum vitae highlighting recent accomplishments, pubications, and experience.
 ---
 
 <span style="float: left; "><a href="{{ '/assets/OBNewton_CV2023.pdf' | prepend: site.baseurl }}"><strong>> You can view and download my complete CV as a PDF.</strong></a> </span>
