@@ -48,8 +48,7 @@ Stowers, K., Kasdaglis, N., Rupp, M. A., <strong>Newton, O. B.</strong>, Chen, J
 <strong>Newton, O. B.</strong>, Fiore, S. M., & Song, J. (in press). Validation of a theoretical framework of task complexity for research on visualization in support of decision making. <i>Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 67</i>(1).<br>
 
 <br>
- <strong>Newton, O. B.</strong> & Fiore, S. M. (2023). Leveraging corporate engagement for diversity in free/libre and open source software projects. <i>The Fourth Workshop on Gender Equity, Diversity, and Inclusion in Software Engineering at the 45th International Conference on Software Engineering (GE@ICSE2023)</i>. DOI: 10.1109/GEICSE59319.2023.00010<br>
-<div style="color:#006600"><strong>Dissertation Research | Awarded Best Paper</strong></div> 
+ <strong>Newton, O. B.</strong> & Fiore, S. M. (2023). Leveraging corporate engagement for diversity in free/libre and open source software projects. <i>The Fourth Workshop on Gender Equity, Diversity, and Inclusion in Software Engineering at the 45th International Conference on Software Engineering (GE@ICSE2023)</i>. DOI: 10.1109/GEICSE59319.2023.00010 <FontAwesomeIcon icon="fa-solid fa-bolt" /><strong>Dissertation Research | Awarded Best Paper</strong></div> 
 </div>
 
 <!--### EDUCATION
