@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello,
-subtitle: My name is Olivia.
+title: Hello | Hola
+subtitle: My name is Olivia | Me llamo Olivia
 sitemap:
   priority: 0.9
 ---
