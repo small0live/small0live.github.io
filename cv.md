@@ -27,9 +27,7 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 ### PUBLICATIONS
 
 **Journal Articles** 
-
 <div style="text-align: justify"> 
-<br>
 <strong>Newton, O. B.</strong>, Saadat, S., Song, J., Sukthankar, G., & Fiore, S. M. (2022). EveryBOTy counts: Examining the relationship between bots and productivity in open source software teams. <i>Topics in Cognitive Sciences: Special Issue on The Emerging Cognitive Science of Human-Autonomy Teams</i>. DOI: 10.1111/tops.12613<br>
 
 <br>
