@@ -74,7 +74,7 @@ Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliq
 
 Postdoctoral Scholar - **University of Central Florida** <span style="float: right; ">January 2023 - Present</span>  
 
-Management of research activities and staff for multimillion dollar projects funded by major organizations (DARPA, National Science Foundation, Air Force Office of Scientific Research) applying mixed methods to model human behavior, cognition, and performance (a) in individuals and groups, (b) in complex operational settings, and (c) with emerging technologies.
+Management of research activities and staff for multimillion dollar projects funded by major organizations (DARPA, National Science Foundation, Minerva Research Initiative) applying mixed methods to model human behavior, cognition, and performance (a) in individuals and groups, (b) in complex operational settings, and (c) with emerging technologies.
 <!--_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
 Technologies used   -->
 
