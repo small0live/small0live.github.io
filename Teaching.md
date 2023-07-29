@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching
-subtitle: Reflections of My Expertise, Experience, and Education
+title: Teaching 
+subtitle: My Expertise and Experience
 ---
 
 <p align="justify">Through formal training combined with research and teaching experience, I have developed knowledge and skills that make me well suited to teach a number of topics across the cognitive, social, and computational sciences including but not limited to: </p>

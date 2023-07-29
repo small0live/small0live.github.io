@@ -4,6 +4,21 @@ title: Gardening
 subtitle: 
 ---
 
+<html>
+  <style>
+  .container {
+    align-items: center;
+    justify-content: center;
+  }
+  
+  img {
+    max-width: 50%;
+    max-height:50%;
+  }
+
+  </style>
+</html>
+
 <div class="container">
 <div class="gallery">
   <figure class="gallery__item gallery__item--1">
