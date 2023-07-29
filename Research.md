@@ -11,7 +11,7 @@ Broadly, I study collaborative work and knowledgement management in sociotechnic
 * <strong>information visualization</strong> to support decision making
 * <strong>cognition</strong> and <strong>collaboration</strong> in long duration space missions
 * the science of <strong>team science</strong>
-* <strong>diversity</strong> and <strong>knowledge loss</strong> in open source software development. 
+* <strong>diversity</strong>, <strong>learning </strong>, and <strong>knowledge loss</strong> in software development. 
 <p align = "justify>
 My research has been accepted in journals, conferences, and workshops associated with leading organizations including <a href="https://www.ieee.org/">IEEE</a>, <a href="https://www.acm.org/">ACM</a>, <a href="https://www.informs.org/">INFORMS</a>, and <a href="https://www.hfes.org/">HFES</a>.</p> 
 <p align="justify">
