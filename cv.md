@@ -24,7 +24,8 @@ subtitle: An abbreviated version of my curriculum vitae highlighting some recent
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.   -->
 
-### PUBLICATIONS
+### PUBLICATIONS 
+<span style="float: right; ">citations: 191; h-index: 8; i10-index: 6/span>  
 
 **Journal Articles** 
 <div style="text-align: justify"> 
@@ -49,7 +50,7 @@ Stowers, K., Kasdaglis, N., Rupp, M. A., <strong>Newton, O. B.</strong>, Chen, J
 **Under Review**
 
 <div style="text-align: justify">
-<strong>Newton, O. B.</strong> & Fiore, S. M. Diversity as a value in free/fibre and open source software development: Insights from a contributor survey and an analysis of corporate involvement. <i>Submitted to the ACM Conference on Computer-Supported Cooperative Work - CSCW 2024</i>
+<strong>Newton, O. B.</strong> & Fiore, S. M. Diversity as a value in free/fibre and open source software development: Insights from a contributor survey and an analysis of corporate involvement. <i>Submitted to the ACM Conference on Computer-Supported Cooperative Work - CSCW 2024.</i>
 </div>
 
 ### PRESENTATIONS
