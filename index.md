@@ -14,7 +14,11 @@ sitemap:
 <hr>
 <p></p>
 <p align="justify">
-I am a <strong>computational social scientist</strong> interested in promoting <strong>open collaboration</strong>, <strong>social good</strong>, and <strong>innovation</strong> in the development of technology and production of knowledge. My expertise is based on a robust theoretical foundation in the cognitive and social sciences blended with the skilled application of methods and approaches advanced in computer and network sciences in addition to traditional experimental methods. I currently work as a Postdoctoral Research Asssociate and Lab Manager of the <a href="https://csl.ist.ucf.edu/">Cognitive Sciences Lab</a> at the University of Central Florida.</p>
+I am a <strong>computational social scientist</strong> interested in promoting <strong>open collaboration</strong>, <strong>social good</strong>, and <strong>innovation</strong> in the development of technology and production of knowledge.</p>
+  
+<p align="justify">My expertise is based on a robust theoretical foundation in the cognitive and social sciences blended with the skilled application of methods and approaches advanced in computer and network sciences in addition to traditional experimental methods. 
+  
+<p align="justify">I currently work as a Postdoctoral Research Asssociate and Lab Manager of the <a href="https://csl.ist.ucf.edu/">Cognitive Sciences Lab</a> at the University of Central Florida.</p>
 <p align="justify">
 In my free time, I am an amateur <a href="https://www.inaturalist.org/observations?place_id=any&user_id=redolive&verifiable=any">naturalist</a> and <a href="{{ '/gardening' | prepend: site.baseurl }}">gardener</a>. I also enjoy reading science fiction, trying out baking recipes, watching fútbol, and spending time with my family in México.</p>
 
