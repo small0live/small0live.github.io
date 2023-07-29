@@ -5,14 +5,13 @@ subtitle: Reflections of My Expertise, Experience, and Education
 ---
 
 <p align="justify">
-Broadly, I study collaboration and knowledgement management in sociotechnical systems. I have conducted research in the areas of:</p>
+Broadly, I study collaborative work and knowledgement management in sociotechnical systems. I have conducted research in the areas of:</p>
 * <strong>instructional systems</strong> and <strong>artificial social intelligence</strong> to support teamwork 
 * <strong>social behavior</strong> in online platforms
 * <strong>information visualization</strong> to support decision making
 * <strong>cognition</strong> and <strong>collaboration</strong> in long duration space missions
-* the science of <strong>team science</strong>, and 
+* the science of <strong>team science</strong>
 * <strong>diversity</strong> and <strong>knowledge loss</strong> in open source software development. 
-</p>
 <p align = "justify>
 My research has been accepted in journals, conferences, and workshops associated with leading organizations including <a href="https://www.ieee.org/">IEEE</a>, <a href="https://www.acm.org/">ACM</a>, <a href="https://www.informs.org/">INFORMS</a>, and <a href="https://www.hfes.org/">HFES</a>.</p> 
 <p align="justify">
