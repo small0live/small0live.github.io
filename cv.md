@@ -25,8 +25,7 @@ subtitle: An abbreviated version of my curriculum vitae highlighting some recent
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.   -->
 
 ### PUBLICATIONS 
-<p>
-<span style="float: right; "><strong>citations: 191; h-index: 8; i10-index: 6</strong></span>  </p>
+<p><strong>citations: 191; h-index: 8; i10-index: 6</strong></p>
 
 **Journal Articles** 
 <div style="text-align: justify"> 
