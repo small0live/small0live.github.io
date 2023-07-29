@@ -29,7 +29,7 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 
 **Journal Articles** 
 <div style="text-align: justify"> 
-<strong>Newton, O. B.</strong>, Saadat, S., Song, J., Sukthankar, G., & Fiore, S. M. (2022). EveryBOTy counts: Examining the relationship between bots and productivity in open source software teams. <i>Topics in Cognitive Sciences: Special Issue on The Emerging Cognitive Science of Human-Autonomy Teams</i>. DOI: 10.1111/tops.12613<br>
+<strong>Newton, O. B.</strong>, Saadat, S., Song, J., Sukthankar, G., & Fiore, S. M. (2022). EveryBOTy counts: Examining the relationship between bots and productivity in open source software teams. <i>Topics in Cognitive Sciences</i>. DOI: 10.1111/tops.12613<br>
 
 <br>
 Stowers, K., Kasdaglis, N., Rupp, M. A., <strong>Newton, O. B.</strong>, Chen, J.Y.C., & Barnes, M.J. (2020). The IMPACT of agent transparency on human performance. <i>IEEE Transactions on Human-Machine Systems, 50</i>(3). 245–253. DOI: 10.1109/THMS.2020.2978041<br>
