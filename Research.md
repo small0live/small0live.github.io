@@ -20,9 +20,9 @@ Broadly, I study collaborative work and knowledgement management in sociotechnic
 ⟣ <strong>diversity</strong>, <strong>learning</strong>, and <strong>knowledge loss</strong> in software projects<br>
 ⟣ <strong>social behavior</strong> and <strong>information spread</strong> in online platforms<br>
 ⟣ <strong>artificial social intelligence</strong> for human-machine teams<br>
+⟣ <strong>intelligent interface design</strong> to improve performance<br>
 ⟣ <strong>information visualization</strong> to support decision making<br>
-⟣ <strong>team cognition</strong> and <strong>collaboration</strong> in space missions<!-- <br>
-⟣ <strong>instructional systems</strong> to support team processes<br> -->
+⟣ <strong>team cognition</strong> and <strong>collaboration</strong> in space missions <br>
 </p>
 
 <p align = "justify">

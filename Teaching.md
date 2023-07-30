@@ -11,4 +11,4 @@ human cognition <strong>•</strong> learning and instruction <strong>•</stron
 </div> 
 
 
-<p align="justify">I have experience teaching at the University of Central Florida as a <strong>lecturer in the Cognitive Sciences Program</strong> and a <strong>graduate teaching assistant in the Modeling and Simulation program</strong>. I have also contributed to the assessment of the institutional effectiveness of graduate programs at UCF, using both quantitative measures of performance and qualitative measures of student perceptions of learning to evaluate instructional approoaches. </p>
+<p align="justify">I have experience teaching at the University of Central Florida as a <strong>lecturer in the Cognitive Sciences Program</strong> and a <strong>graduate teaching assistant in the Modeling and Simulation program</strong>. I have also contributed to the assessment of the institutional effectiveness of graduate programs at UCF, specifically in the development of measures of performance and student perceptions of learning to evaluate instructional approoaches. </p>
