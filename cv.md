@@ -46,12 +46,6 @@ Stowers, K., Kasdaglis, N., Rupp, M. A., <strong>Newton, O. B.</strong>, Chen, J
  <strong>Newton, O. B.</strong> & Fiore, S. M. (2023). Leveraging corporate engagement for diversity in free/libre and open source software projects. <i>The Fourth Workshop on Gender Equity, Diversity, and Inclusion in Software Engineering at the 45th International Conference on Software Engineering (GE@ICSE2023)</i>. DOI: 10.1109/GEICSE59319.2023.00010 <strong>Dissertation Research | Awarded Best Paper</strong>
 </div>
 
-**Under Review**
-
-<div style="text-align: justify">
-<strong>Newton, O. B.</strong> & Fiore, S. M. Diversity as a value in free/libre and open source software development: Insights from a contributor survey and an analysis of corporate involvement. <i>Submitted to the ACM Conference on Computer-Supported Cooperative Work - CSCW 2024.</i>
-</div>
-
 ### PRESENTATIONS
 
 <div style="text-align: justify"> 
