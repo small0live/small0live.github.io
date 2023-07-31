@@ -5,7 +5,7 @@ subtitle: An abbreviated version of my CV highlighting recent activity.
 ---
 <hr>
 <p></p>
-<div style="text-align: center; "><a href="{{ '/assets/OBNewton_CV2023.pdf' | prepend: site.baseurl }}"><strong>Click here to view and download my complete CV as a PDF.</strong></a> </div>
+<div style="text-align: center; "><a href="{{ '/assets/OBNewton_CV2023.pdf' | prepend: site.baseurl }}"><strong>Click here to view and download a complete version of my CV as a PDF.</strong></a> </div>
 <p></p>
 <hr>
 
