@@ -49,13 +49,16 @@ Stowers, K., Kasdaglis, N., Rupp, M. A., <strong>Newton, O. B.</strong>, Chen, J
 ### PRESENTATIONS
 
 <div style="text-align: justify"> 
- <strong>Newton, O. B.</strong> & Fiore, S. M. (2023, October). Modeling the relationship between social diversity and organizational decision making in open collaborations in information systems. <i>Paper to be presented at the 2023 INFORMS Annual Meeting</i>, Phoenix, AZ.
+<strong>Newton, O. B.</strong> & Fiore, S. M. (2023, October). Modeling the relationship between social diversity and organizational decision making in open collaborations in information systems. <i>Paper to be presented at the 2023 INFORMS Annual Meeting</i>, Phoenix, AZ.
 <br>
 <br>
- <strong>Newton, O. B.</strong> & Fiore, S. M. (2023, July). A preliminary study of team learning in scientific software development. <i>Poster presented at the 18th Annual Interdisciplinary Network for Group Research (INGRoup) Conference</i>, Bellevue, WA.
+<strong>Newton, O. B.</strong> & Fiore, S. M. (2023, July). Understanding the relationship between attitudes and behaviors towards interdisciplinary research and perceptions of team learning. Paper presented at the 2023 International Science of Team Science Conference, Bethesda, MD.
+ <br>
+ <br>
+<strong>Newton, O. B.</strong> & Fiore, S. M. (2023, July). A preliminary study of team learning in scientific software development. <i>Poster presented at the 18th Annual Interdisciplinary Network for Group Research (INGRoup) Conference</i>, Bellevue, WA.
 <br>
 <br>
- <strong>Newton, O. B.</strong> & Fiore, S. M. (2023, June). Perceptions of collective learning in scientific software teams. <i>Poster presented at the International Conference on Science of Science and Innovation</i>, Evanston, IL.<br></div>
+<strong>Newton, O. B.</strong> & Fiore, S. M. (2023, June). Perceptions of collective learning in scientific software teams. <i>Poster presented at the International Conference on Science of Science and Innovation</i>, Evanston, IL.<br></div>
 
 <!--### EDUCATION
 
