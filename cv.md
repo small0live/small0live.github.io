@@ -20,10 +20,6 @@ subtitle: An abbreviated version of my CV highlighting recent activity.
 
 - UCF Today (2023, May). <a href="https://www.ucf.edu/news/latina-alumna-postdoctoral-researcher-inspiring-underrepresented-youth-to-excel-in-tech-world">“Latina Alumna, Postdoctoral Researcher Inspiring Underrepresented Youth to Excel in Tech World.”</a>
 
-<!-- ### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.   -->
-
 ### PUBLICATIONS 
 
 **Journal Articles** 
@@ -59,14 +55,7 @@ Stowers, K., Kasdaglis, N., Rupp, M. A., <strong>Newton, O. B.</strong>, Chen, J
 <br>
 <br>
 <strong>Newton, O. B.</strong> & Fiore, S. M. (2023, June). Perceptions of collective learning in scientific software teams. <i>Poster presented at the International Conference on Science of Science and Innovation</i>, Evanston, IL.<br></div>
-
-<!--### EDUCATION
-
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.   -->
  
-
 ### EXPERIENCE
 
 Postdoctoral Scholar - **University of Central Florida** <span style="float: right; ">January 2023 - Present</span>  
