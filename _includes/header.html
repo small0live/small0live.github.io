@@ -1,5 +1,6 @@
 <header class="header">
 <div class="navigation">
+<link rel="stylesheet" href="/Documents/GitHub/small0live.github.io/assests/vendor/academicicons-1.9.4/css/academicons.min.css"/>
 <a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
 <ul class="menu">
 <li class="menu__entry"><a href="{{ '/cv' | prepend: site.baseurl }}">CV</a></li>
@@ -22,6 +23,11 @@
 {% if site.author.linkedin %}
 <a href="https://in.linkedin.com/in/{{ site.author.linkedin }}" class="social-links__entry" target="_blank">
 <i class="fa fa-linkedin"></i>
+</a>
+{% endif %}
+{% if site.author.scholar %}
+<a href="https://scholar.google.com/citations?user={{ site.author.scholar }}" class="social-links__entry" target="_blank">
+<i class="ai ai-google-scholar-square ai-3x"></i>
 </a>
 {% endif %}
 </ul>
