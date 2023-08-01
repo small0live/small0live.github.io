@@ -60,7 +60,7 @@ Stowers, K., Kasdaglis, N., Rupp, M. A., <strong>Newton, O. B.</strong>, Chen, J
 
 Postdoctoral Scholar - **University of Central Florida** <span style="float: right; ">January 2023 - Present</span>  
 
-Management of research activities and staff for multimillion dollar projects funded by major organizations (DARPA, National Science Foundation, Minerva Research Initiative) applying mixed methods to model human behavior, cognition, and performance (a) in individuals and groups (b) with emerging technologies (c) in sociotechnical systems
+Management of research activities and staff for multimillion dollar projects funded by major organizations (National Science Foundation, Minerva Research Initiative) applying mixed methods to model human behavior, cognition, and performance (a) in individuals and groups (b) with emerging technologies (c) in sociotechnical systems
 
 
 
