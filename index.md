@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello! ◆ ¡Hola!
+title: Hello! ⟡  ¡Hola!
 subtitle:
 sitemap:
   priority: 0.9
