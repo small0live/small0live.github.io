@@ -18,7 +18,7 @@ sitemap:
 <img src="{{ '/assets/img/me_bw.png' | prepend: site.baseurl }}" class = "rounded-corners"> 
 <p></p>
 <p align="justify">
-I am a <strong>computational social scientist</strong> interested in promoting <strong>open collaboration</strong>, <strong>social good</strong>, and <strong>innovation</strong> in technology and knowledge work domains. Currently, I am a Postdoctoral Scholar in the <a href="https://csl.ist.ucf.edu/">Cognitive Sciences Lab</a> at the <a href="https://www.ucf.edu/">University of Central Florida</a> where I conduct research on cognition and learning in teams.</p>
+I am a <strong>computational social scientist</strong> interested in promoting <strong>open collaboration</strong>, <strong>social good</strong>, and <strong>innovation</strong> in technology and knowledge work domains. Currently, I am a Postdoctoral Scholar in the <a href="https://csl.ist.ucf.edu/">Cognitive Sciences Lab</a> at the <a href="https://www.ucf.edu/">University of Central Florida</a> where I conduct research on cognitive and social processes in teams.</p>
 
 
 <p align="justify">
