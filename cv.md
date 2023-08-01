@@ -52,7 +52,7 @@ Stowers, K., Kasdaglis, N., Rupp, M. A., <strong>Newton, O. B.</strong>, Chen, J
 <strong>Newton, O. B.</strong> & Fiore, S. M. (2023, October). Modeling the relationship between social diversity and organizational decision making in open collaborations in information systems. <i>Paper to be presented at the 2023 INFORMS Annual Meeting</i>, Phoenix, AZ.
 <br>
 <br>
-<strong>Newton, O. B.</strong> & Fiore, S. M. (2023, July). Understanding the relationship between attitudes and behaviors towards interdisciplinary research and perceptions of team learning. Paper presented at the 2023 International Science of Team Science Conference, Bethesda, MD.
+<strong>Newton, O. B.</strong> & Fiore, S. M. (2023, July). Understanding the relationship between attitudes and behaviors towards interdisciplinary research and perceptions of team learning. <i>Paper presented at the 2023 International Science of Team Science Conference</i>, Bethesda, MD.
  <br>
  <br>
 <strong>Newton, O. B.</strong> & Fiore, S. M. (2023, July). A preliminary study of team learning in scientific software development. <i>Poster presented at the 18th Annual Interdisciplinary Network for Group Research (INGRoup) Conference</i>, Bellevue, WA.
