@@ -35,8 +35,7 @@ In my free time, I am an amateur <a href="https://www.inaturalist.org/observatio
   img {
     max-width: 56%;
     max-height:56%;
-    padding-left: 12px;
-    padding-right: 12px;
+    margin: 0px 10px;
     float: right;
   }
   
