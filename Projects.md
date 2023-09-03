@@ -29,7 +29,6 @@ subtitle: Current and Past Contributions
 
 **Diversity and Corporatization in Free/Libre and Open Source Software** (2020 - Present)
 <br>
-*Dissertation* 
 
 #### Prinicipal Investigator
 
