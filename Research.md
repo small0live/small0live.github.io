@@ -5,7 +5,7 @@ subtitle: My Expertise and Experience
 ---
 
 <p align="justify">
-Broadly, I study knowledgement production and management in collaborative work in sociotechnical systems. My expertise is based on a robust theoretical and methodological foundation in the cognitive and social sciences blended with the skilled application of approaches advanced in the computer and network sciences. I have conducted research in the areas of:</p>
+Broadly, I study knowledgement development, production, and management in collaborative work in sociotechnical systems. My expertise is based on a robust theoretical and methodological foundation in the cognitive and social sciences blended with the skilled application of approaches advanced in the computer and network sciences. I have conducted research in the areas of:</p>
 <!-- <ul>
 <li>  ⟣ <strong>knowledge development</strong> in science teams</li>
 <li>  ⟣ <strong>diversity</strong>, <strong>learning</strong>, and <strong>knowledge loss</strong> in software projects</li>
