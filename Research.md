@@ -5,7 +5,7 @@ subtitle: My Expertise and Experience
 ---
 
 <p align="justify">
-Broadly, I study knowledgement production and management in collaborative work in sociotechnical systems. My expertise is based on a robust theoretical and methodological foundation in the cognitive and social sciences blended with the skilled application of approaches advanced in the computer and network sciences. I have conducted research in the areas of:</p>
+Broadly, I study knowledgement development, production, and management in collaborative work in sociotechnical systems. My expertise is based on a robust theoretical and methodological foundation in the cognitive and social sciences blended with the skilled application of approaches advanced in the computer and network sciences. I have conducted research in the areas of:</p>
 <!-- <ul>
 <li>  ⟣ <strong>knowledge development</strong> in science teams</li>
 <li>  ⟣ <strong>diversity</strong>, <strong>learning</strong>, and <strong>knowledge loss</strong> in software projects</li>
@@ -26,7 +26,7 @@ Broadly, I study knowledgement production and management in collaborative work i
 </p>
 
 <p align = "justify">
-As evidence of my expertise, my research has been accepted in journals and conferences associated with a variety of leading organizations including <a href="https://www.ieee.org/">IEEE</a>, <a href="https://www.acm.org/">ACM</a>, <a href="https://www.informs.org/">INFORMS</a>, and <a href="https://www.hfes.org/">HFES</a>. I am highly collaborative and have worked with faculty and students across fields including the digital humanities, cognitive psychology, organizational behavior, data science, and software engineering, to name a few. A summary of the research projects to which I have contributed can be found <a href="{{ '/Projects' | prepend: site.baseurl }}">here</a>.
+As evidence of my expertise, my research has been accepted in journals and conferences associated with a variety of leading organizations including <a href="https://www.ieee.org/">IEEE</a>, <a href="https://www.acm.org/">ACM</a>, <a href="https://www.informs.org/">INFORMS</a>, and <a href="https://www.hfes.org/">HFES</a>. I am highly collaborative and have worked with faculty and students across disciplines and organizations. A summary of the research projects to which I have contributed can be found <a href="{{ '/Projects' | prepend: site.baseurl }}">here</a>.
 <p></p>
 <img src="{{ '/assets/img/olivia_foundersday.jpeg' | prepend: site.baseurl }}" class = "rounded-corners"> 
 
