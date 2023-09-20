@@ -14,7 +14,7 @@ subtitle: An abbreviated version of my CV highlighting recent activity.
 **Awards**
 
 - 2023 University Award for Outstanding Dissertation, University of Central Florida
-- Best Paper Award, Workshop on Gender Equity, Diversity and Inclusion in Software Engineering, International Conference on Software Engineering (GE@ICSE 2023)
+- <a href="{{ '/assets/img/GEICSE_BestPaper_Newton.jpeg' | prepend: site.baseurl }}">Best Paper Award</a>, Workshop on Gender Equity, Diversity and Inclusion in Software Engineering, International Conference on Software Engineering (GE@ICSE 2023)
 
 **Press**
 
