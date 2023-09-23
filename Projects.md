@@ -26,6 +26,7 @@ subtitle: Current and Past Contributions
 - PI: Stephen M. Fiore
 - Publications and Presentations:
 
+<link href="https://csl.ist.ucf.edu/Portals/3/network.html?ver=P_7QIdHIkBqaQvFbmV1CBA%3d%3d" rel="import" />
 
 **Diversity and Corporatization in Free/Libre and Open Source Software** (2020 - Present)
 <br>
