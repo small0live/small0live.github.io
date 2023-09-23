@@ -26,7 +26,7 @@ Broadly, I study knowledgement development, production, and management in collab
 </p>
 
 <p align = "justify">
-My research has been published and presented in journals and conferences associated with organizations across disciplines including <a href="https://www.ieee.org/">IEEE</a>, <a href="https://www.acm.org/">ACM</a>, <a href="https://www.informs.org/">INFORMS</a>, ICSSI, INGRoup, INSciTS, and <a href="https://www.hfes.org/">HFES</a>. I am highly collaborative and have worked with faculty and students across disciplines and organizations. A summary of the research projects to which I have contributed can be found <a href="{{ '/Projects' | prepend: site.baseurl }}">here</a>.
+My research has been published and presented in journals and conferences associated with organizations across disciplines including <a href="https://www.ieee.org/">IEEE</a>, <a href="https://www.acm.org/">ACM</a>, <a href="https://www.informs.org/">INFORMS</a>, ICSSI, INGRoup, INSciTS, and <a href="https://www.hfes.org/">HFES</a>. I am highly collaborative and have boundary spanning skills which are reflected in the interdisciplinary projects to which I am a prior or current contributorr. A summary of the these projects can be found <a href="{{ '/Projects' | prepend: site.baseurl }}">here</a>.
 <p></p>
 <img src="{{ '/assets/img/olivia_foundersday.jpeg' | prepend: site.baseurl }}" class = "rounded-corners"> 
 
