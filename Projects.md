@@ -27,10 +27,6 @@ subtitle: Current and Past Contributions
 - Summary: This projects aims to contribute to the science of team science through an investigation of collaborative learning requirements for teams engaged in interdisciplinary research. This includes the conceptualization of individual competencies for effective team science and the refinement of team learning measurement for interdisciplinary science teams. 
 - Presentations: ICSSI 2023, INGRroup 2023, INSciTS 2023, INSciTS 2022
 
-<iframe
-  src="https://csl.ist.ucf.edu/Portals/3/network.html"
-  style="width:100%; height:300px;"
-></iframe>
 
 **Diversity and Corporatization in Free/Libre and Open Source Software** (2020 - Present)
 
