@@ -15,7 +15,7 @@ subtitle: Current and Past Contributions
 #### Role: Project Manager
 
 - PI: Stephen M. Fiore, CO-Is: C. Shawn Burke, Florian Jentsch, Joseph T. Kider
-- Summary: This project aims to understand how (1) long duration space flight will affect individual and team cognition and (2) how unobtrusive measures can be leveraged to monitor team functioning. 
+- Summary: This project aims to understand (1) how long duration space flight will affect individual and team cognition and (2) how unobtrusive measures can be leveraged to monitor team functioning. 
 
 **Understanding Team Science to Help Reinvent Scientific Talent** (2021 - Present)
 <br>
