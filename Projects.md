@@ -12,7 +12,7 @@ subtitle: Current and Past Contributions
 *Minerva Research Initiative* 
 
 
-#### Project Manager
+#### Role: Project Manager
 
 - PI: Stephen M. Fiore, CO-Is: C. Shawn Burke, Florian Jentsch, Joseph T. Kider
 - Summary: This project aims to understand how (1) long duration space flight will affect individual and team cognition and (2) how unobtrusive measures can be leveraged to monitor team functioning. 
@@ -21,7 +21,7 @@ subtitle: Current and Past Contributions
 <br>
 *National Science Foundation*
 
-#### Research Team Lead 
+#### Role: Research Team Lead 
 
 - PI: Stephen M. Fiore
 - Summary: This projects aims to contribute to the science of team science through an investigation of collaborative learning requirements for teams engaged in interdisciplinary research. This includes the conceptualization of individual competencies for effective team science and the refinement of team learning measurement for interdisciplinary science teams. 
@@ -31,7 +31,7 @@ subtitle: Current and Past Contributions
 **Diversity and Corporatization in Free/Libre and Open Source Software** (2020 - Present)
 <br>
 
-#### Prinicipal Investigator
+#### Role: Prinicipal Investigator
 
 - Publications and Presentations:
 
@@ -42,7 +42,7 @@ subtitle: Current and Past Contributions
 <br>
 *Defense Advanced Research Projects Agency*
 
-#### Researcher, Publication Development and Oversight Committee Member
+#### Role: Researcher and Publication Development and Oversight Committee Member
 
 - PI: Stephen M. Fiore, CO-Is: Gita Sukthankar, Ivan Garibay, Florian Jentsch, C. Shawn Burke
 - Publications and Presentations:
@@ -51,7 +51,7 @@ subtitle: Current and Past Contributions
 <br>
 *Defense Advanced Research Projects Agency*
 
-#### Researcher, GRA Coordinator
+#### Role: Researcher and GRA Coordinator
 
 - PI: Ivan Garibay, CO-PIs: Stephen M. Fiore, Gita Sukthankar, Bill Rand
 - Publications and Presentations:
@@ -60,7 +60,7 @@ subtitle: Current and Past Contributions
 <br>
 *Office of Naval Research*
 
-#### Researcher
+#### Role: Researcher
 
 - PI: Stephen M. Fiore, Co-I: Joe Laviola
 - Publications and Presentations:
@@ -69,7 +69,7 @@ subtitle: Current and Past Contributions
 <br>
 *Army Research Lab, Robotics Collaborative Technology Alliance*
 
-#### Researcher
+#### Role: Researcher
 
 - PI: Stephen M. Fiore
 - Publications and Presentations:
