@@ -43,7 +43,7 @@ subtitle: Current and Past Contributions
 <br>
 *Defense Advanced Research Projects Agency*
 
-#### Role: Researcher and Publication Development and Oversight Committee Member
+#### Role: Researcher + Publication Development and Oversight Committee Member
 
 - PI: Stephen M. Fiore, CO-Is: Gita Sukthankar, Ivan Garibay, Florian Jentsch, C. Shawn Burke
 - Publications and Presentations: HFES 2020
@@ -52,7 +52,7 @@ subtitle: Current and Past Contributions
 <br>
 *Defense Advanced Research Projects Agency*
 
-#### Role: Researcher and GRA Coordinator
+#### Role: Researcher + GRA Coordinator
 
 - PI: Ivan Garibay, CO-PIs: Stephen M. Fiore, Gita Sukthankar, Bill Rand
 - Publications and Presentations: Topics in Cognitive Science 2022, WI-IAT'20, ACM HT2020, CSS 2019
@@ -64,7 +64,7 @@ subtitle: Current and Past Contributions
 #### Role: Researcher
 
 - PI: Stephen M. Fiore, Co-I: Joe Laviola
-- Publications and Presentations:
+- Publications and Presentations: HFES 2019, HFES 2018, AHFE 2018, HFES 2017
 
 **Social Cues and Behaviors in Human Robot Collaboration** (2016 - 2017)
 <br>
@@ -73,4 +73,4 @@ subtitle: Current and Past Contributions
 #### Role: Researcher
 
 - PI: Stephen M. Fiore
-- Publications and Presentations:
+- Publications and Presentations: HFES 2019, HFES 2018
