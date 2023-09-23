@@ -32,7 +32,7 @@ subtitle: Current and Past Contributions
 
 #### Role: Prinicipal Investigator
 
-- Summary: This projects aims to inform the development of strategies for improving inclusivity and increasing diversity, equity, and innovation in software development. I draw from systems theory to conceptualize leverage points for change, focusing system intent (actor goals and mindsets/paradigms) and system design (the structure of information flows, e.g., in social computing technologies).
+- Summary: This projects aims to inform the development of strategies for inclusivity and diversity in software development to increase equity in tech innovation. I draw from systems theory to conceptualize leverage points for change, focusing on system intent (actor goals and mindsets/paradigms) and system design (the structure of information flows, e.g., in social computing technologies).
 - Publications and Presentations: GE@ICSE 2023, INFORMS 2023
 
 
