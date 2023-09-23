@@ -15,7 +15,7 @@ subtitle: Current and Past Contributions
 #### Project Manager
 
 - PI: Stephen M. Fiore, CO-Is: C. Shawn Burke, Florian Jentsch, Joseph T. Kider
-- Publications and Presentations:
+- Summary: This project aims to understand how (1) long duration space flight will affect individual and team cognition and (2) how unobtrusive measures can be leveraged to monitor team functioning. 
 
 **Understanding Team Science to Help Reinvent Scientific Talent** (2021 - Present)
 <br>
@@ -24,9 +24,9 @@ subtitle: Current and Past Contributions
 #### Research Team Lead 
 
 - PI: Stephen M. Fiore
-- Publications and Presentations:
+- Summary: This projects aims to contribute to the science of team science through an investigation of collaborative learning requirements for teams engaged in interdisciplinary research. This includes the conceptualization of individual competencies for effective team science and the refinement of team learning measurement for interdisciplinary science teams. 
+- Presentations: INSciTS 2022, ICSSI 2023, INGRroup 2023, INSciTS 2023
 
-<link href="https://csl.ist.ucf.edu/Portals/3/network.html?ver=P_7QIdHIkBqaQvFbmV1CBA%3d%3d" rel="import" />
 
 **Diversity and Corporatization in Free/Libre and Open Source Software** (2020 - Present)
 <br>
