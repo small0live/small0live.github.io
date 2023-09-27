@@ -5,7 +5,7 @@ subtitle: My Expertise and Experience
 ---
 
 <p align="justify">
-Broadly, I study knowledgement development, production, and management in collaborative work in sociotechnical systems. My expertise is based on a robust theoretical and methodological foundation in the cognitive and social sciences blended with the skilled application of approaches advanced in the computer and network sciences. I have conducted research in the areas of:</p>
+Broadly, I study knowledgement development, production, and management in collaborative work. My expertise is based on a robust theoretical and methodological foundation in the cognitive and social sciences blended with the skilled application of approaches advanced in the computer and network sciences. I have conducted research in the areas of:</p>
 <!-- <ul>
 <li>  ⟣ <strong>knowledge development</strong> in science teams</li>
 <li>  ⟣ <strong>diversity</strong>, <strong>learning</strong>, and <strong>knowledge loss</strong> in software projects</li>
@@ -26,7 +26,7 @@ Broadly, I study knowledgement development, production, and management in collab
 </p>
 
 <p align = "justify">
-My research has been published and presented in journals and conferences associated with organizations across disciplines including <a href="https://www.ieee.org/">IEEE</a>, <a href="https://www.acm.org/">ACM</a>, <a href="https://www.informs.org/">INFORMS</a>, ICSSI, INGRoup, INSciTS, and <a href="https://www.hfes.org/">HFES</a>. I am highly collaborative and have boundary spanning skills which are reflected in the interdisciplinary projects to which I am a prior or current contributorr. A summary of these projects can be found <a href="{{ '/Projects' | prepend: site.baseurl }}">here</a>.
+My research has been published and presented in journals and conferences associated with organizations across disciplines including <a href="https://www.ieee.org/">IEEE</a>, <a href="https://www.acm.org/">ACM</a>, <a href="https://www.informs.org/">INFORMS</a>, ICSSI, INGRoup, INSciTS, and <a href="https://www.hfes.org/">HFES</a>. I am highly collaborative and my boundary spanning skills are reflected in the interdisciplinary projects to which I am a prior or current contributorr. A summary of these projects can be found <a href="{{ '/Projects' | prepend: site.baseurl }}">here</a>.
 <p></p>
 <img src="{{ '/assets/img/olivia_foundersday.jpeg' | prepend: site.baseurl }}" class = "rounded-corners"> 
 
