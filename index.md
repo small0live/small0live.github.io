@@ -15,7 +15,7 @@ sitemap:
 <hr>
 <p></p>
 
-<img src="{{ '/assets/img/bw-bc.png' | prepend: site.baseurl }}" class = "rounded-corners"> 
+<img src="{{ '/assets/img/bwbw.png' | prepend: site.baseurl }}" class = "rounded-corners"> 
 <p></p>
 <p align="justify">
 I am a Postdoctoral Scholar in the <a href="https://csl.ist.ucf.edu/">Cognitive Sciences Lab</a> at the <a href="https://www.ucf.edu/">University of Central Florida</a> where I conduct research on cognitive and social processes in interdisciplinary science, collaborative software development, and spaceflight. Through my research, I'm interested in promoting <strong>social good</strong> and accelerating <strong>innovation</strong> in sociotechnical systems.</p>
