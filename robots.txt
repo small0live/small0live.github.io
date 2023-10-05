@@ -3,7 +3,7 @@ layout: null
 sitemap:
   exclude: 'yes'
 ---
-User-agent: *
-Disallow:
+User-agent: GPTBot
+Disallow: /
 
 Sitemap: {{ site.url }}/sitemap.xml
