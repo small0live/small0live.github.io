@@ -42,5 +42,16 @@ subtitle:
 </div>
 </div>
 
+<div class="row">
+  <figure class="gallery__item gallery__item--1">
+    <div class="column">
+    <img src="{{ '/assets/img/pusaasita1.png' | prepend: site.baseurl }}">
+  </div>
+    <div class="column">
+    <img src="{{ '/assets/img/pusaasita.png' | prepend: site.baseurl }}">
+  </div>
+    <figcaption>Pusa Asita Black Carrots</figcaption>
+  </figure>
+</div>
 
 
