@@ -6,19 +6,13 @@ subtitle:
 
 <html>
   <style>
-/*  .container {
-    align-items: center;
-    justify-content: center;
-  }*/
-  
   img {
     max-width: 100%;
     max-height:100%;
   }
      .column {
     float: left;
-    width: 40%;
-  padding: 2px;
+    width: 50%;
     }
 
     .row::after {
@@ -32,8 +26,7 @@ subtitle:
 
 
 
-<!-- <div class="container"> -->
-<!-- <div class="gallery"> -->
+
 <div class="row">
   <div class="column">
   <figure class="gallery__item gallery__item--1">
@@ -48,7 +41,6 @@ subtitle:
   </figure>
 </div>
 </div>
-  <!-- </div> -->
-<!-- </div> -->
+
 
 
