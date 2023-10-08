@@ -28,9 +28,6 @@ figure figcaption {
 </html>
 
 
-
-
-
 <div class="row">
   <div class="column">
   <figure class="gallery__item gallery__item--1">
@@ -39,7 +36,7 @@ figure figcaption {
   </figure>
 </div>
 <div class="column">
-  <figure class="gallery__item gallery__item--2">
+  <figure class="gallery__item gallery__item--1">
     <img src="{{ '/assets/img/radishes.png' | prepend: site.baseurl }}">
     <figcaption>Radish (Daikon & Cherry Belle)</figcaption>
   </figure>
@@ -51,11 +48,36 @@ figure figcaption {
     <div class="column">
     <img src="{{ '/assets/img/pusaasita1.png' | prepend: site.baseurl }}">
   </div>
+  <figcaption>Pusa Asita Black Carrots</figcaption>
     <div class="column">
     <img src="{{ '/assets/img/pusaasita.png' | prepend: site.baseurl }}">
   </div>
-    <figcaption>Pusa Asita Black Carrots</figcaption>
   </figure>
 </div>
 
+<div class="row">
+  <figure class="gallery__item gallery__item--1">
+    <div class="column">
+    <img src="{{ '/assets/img/okra.png' | prepend: site.baseurl }}">
+  </div>
+  <figcaption>Burgundy Red Okra</figcaption>
+    <div class="column">
+    <img src="{{ '/assets/img/okraagain.png' | prepend: site.baseurl }}">
+  </div>
+  </figure>
+</div>
 
+<div class="row">
+    <div class="column">
+  <figure class="gallery__item gallery__item--1">
+    <img src="{{ '/assets/img/bep.png' | prepend: site.baseurl }}">
+    <figcaption>Black Eyed Peas</figcaption>
+  </figure>
+</div>
+  <div class="column">
+  <figure class="gallery__item gallery__item--1">
+    <figcaption>Wasabi Radish</figcaption>
+    <img src="{{ '/assets/img/wasabi.jpeg' | prepend: site.baseurl }}">
+  </figure>
+</div>
+</div>
