@@ -20,6 +20,10 @@ subtitle:
   clear: both;
   display: table;
 }
+figure figcaption {
+  text-align: center; 
+  padding: 1rem 0;
+}
   </style>
 </html>
 
