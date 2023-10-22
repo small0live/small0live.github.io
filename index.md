@@ -15,14 +15,14 @@ sitemap:
 <hr>
 <p></p>
 
-<img src="{{ '/assets/img/bwbw.png' | prepend: site.baseurl }}" class = "rounded-corners"> 
+<img src="{{ '/assets/img/bwbw.png' | prepend: site.baseurl }}" class = "rounded-corners" align="right"> 
 <p></p>
 <p align="justify">
 I am a Postdoctoral Scholar in the <a href="https://csl.ist.ucf.edu/">Cognitive Sciences Lab</a> at the <a href="https://www.ucf.edu/">University of Central Florida</a> where I conduct research on cognitive, social, and technological aspects of interdisciplinary research and collaborative software development. Through my research, I'm interested in promoting <strong>social good</strong> and accelerating <strong>innovation</strong> in science and engineering.</p>
 
 <p align="justify">My research interests are in the areas of human-computer interaction and sociotechnical systems. I investigate <strong>how knowledge workers use distributed information to learn and make decisions</strong> in cooperative projects. I further examine how technological affordances, intelligent machine agents, and social norms influence behavior in such projects.</p>
 
-<img src="{{ '/assets/img/researcharea.png' | prepend: site.baseurl }}"> 
+<img src="{{ '/assets/img/areas.png' | prepend: site.baseurl }}" class="center"> 
 
 <p align="justify">
 In my free time, I am an amateur <a href="https://www.inaturalist.org/observations?place_id=any&user_id=redolive&verifiable=any">naturalist</a> and <a href="{{ '/gardening' | prepend: site.baseurl }}">gardener</a>. I also enjoy reading science fiction, trying out baking recipes, watching fútbol, and spending time with my family in México.</p>
@@ -39,7 +39,6 @@ In my free time, I am an amateur <a href="https://www.inaturalist.org/observatio
     max-width: 56%;
     max-height:56%;
     margin: 0px 10px;
-    float: right;
   }
   
   .text {
@@ -47,6 +46,12 @@ In my free time, I am an amateur <a href="https://www.inaturalist.org/observatio
     padding-top: 20%;
     float: left;
   }
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
   </style>
 </html>
 
