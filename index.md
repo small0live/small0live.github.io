@@ -22,6 +22,8 @@ I am a Postdoctoral Scholar in the <a href="https://csl.ist.ucf.edu/">Cognitive 
 
 <p align="justify">My research interests are in the areas of human-computer interaction and sociotechnical systems. I investigate <strong>how knowledge workers use distributed information to learn and make decisions</strong> in cooperative projects. I further examine how technological affordances, intelligent machine agents, and social norms influence behavior in such projects.</p>
 
+<img src="{{ '/assets/img/researcharea.png' | prepend: site.baseurl }}"> 
+
 <p align="justify">
 In my free time, I am an amateur <a href="https://www.inaturalist.org/observations?place_id=any&user_id=redolive&verifiable=any">naturalist</a> and <a href="{{ '/gardening' | prepend: site.baseurl }}">gardener</a>. I also enjoy reading science fiction, trying out baking recipes, watching fútbol, and spending time with my family in México.</p>
 
