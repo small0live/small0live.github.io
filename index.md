@@ -50,7 +50,7 @@ In my free time, I am an amateur <a href="https://www.inaturalist.org/observatio
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 40%;
 }
   </style>
 </html>
