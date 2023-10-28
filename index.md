@@ -18,9 +18,9 @@ sitemap:
 <img src="{{ '/assets/img/bwbw.png' | prepend: site.baseurl }}" class = "rounded-corners" align="right"> 
 <p></p>
 <p align="justify">
-I am a Postdoctoral Scholar in the <a href="https://csl.ist.ucf.edu/">Cognitive Sciences Lab</a> at the <a href="https://www.ucf.edu/">University of Central Florida</a> where I conduct research on cognitive, social, and technological aspects of interdisciplinary research and collaborative software development. Through my research, I'm interested in promoting <strong>social good</strong> and accelerating <strong>innovation</strong> in science and engineering.</p>
+I am a Postdoctoral Scholar in the <a href="https://csl.ist.ucf.edu/">Cognitive Sciences Lab</a> at the <a href="https://www.ucf.edu/">University of Central Florida</a> where I conduct research on cognitive, social, and technological aspects of interdisciplinary science and collaborative software development. Through my research, I'm interested in promoting <strong>social good</strong> and accelerating <strong>innovation</strong> in science and engineering.</p>
 
-<p align="justify">My research interests are in the areas of human-computer interaction and sociotechnical systems. I investigate <strong>how knowledge workers use distributed information to learn and make decisions</strong> in cooperative projects. I further examine how technological affordances, intelligent machine agents, and social norms influence behavior in such projects.</p>
+<p align="justify">In my research, I investigate <strong>how knowledge workers use distributed information to learn and make decisions</strong> in cooperative projects. I further examine how technological affordances, intelligent machine agents, and social norms influence behavior in such projects. I integrate methods from the social, data, and computational sciences to model these relationships.</p>
 
 <img src="{{ '/assets/img/areas.png' | prepend: site.baseurl }}" class="center"> 
 
