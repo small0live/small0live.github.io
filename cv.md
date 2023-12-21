@@ -11,6 +11,11 @@ subtitle: An abbreviated version of my CV highlighting recent activity.
 
 ### RECOGNITION
 
+**Funding**
+
+- 2024 Better Scientific Software Fellowship, U.S. Department of Energy (Office of Advanced Scientific Computing Research and National Nuclear Security Administration) & U.S. National Science Foundation
+- Preeminent Postdoctoral Program, University of Central Florida
+
 **Awards**
 
 - 2023 University Award for Outstanding Dissertation, University of Central Florida
