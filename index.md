@@ -9,7 +9,7 @@ sitemap:
 <hr>
 <p></p>
 
-<div style="text-align: center; "><a href="https://graduate.ucf.edu/profile/olivia-newton"><strong>Click here to read a short bio of me by the University of Central Florida.</strong></a></div>
+<div style="text-align: center; "><a href="https://bssw.io/blog_posts/introducing-the-2024-bssw-fellows"><strong>I've been selected for the 2024 Better Scientific Software Fellowship supported by the U.S. Dept. of Energy and NSF––click here to read more from BSSw.</strong></a></div>
 
 <p></p>
 <hr>
