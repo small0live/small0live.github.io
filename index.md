@@ -9,7 +9,8 @@ sitemap:
 <hr>
 <p></p>
 
-<div style="text-align: center; "><a href="https://bssw.io/blog_posts/introducing-the-2024-bssw-fellows"><strong>I've been selected for the 2024 Better Scientific Software Fellowship supported by the U.S. Dept. of Energy and NSF––click here to read more from BSSw.</strong></a></div>
+<div style="text-align: center; "><strong>Dec. 2023 News: I've been selected as 2024 Better Scientific Software Fellow!
+<a href="https://bssw.io/blog_posts/introducing-the-2024-bssw-fellows">Click here to read about this fellowship sponsored by the U.S. Dept. of Energy and NSF.</strong></a></div>
 
 <p></p>
 <hr>
