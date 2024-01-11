@@ -13,7 +13,7 @@ subtitle: An abbreviated version of my CV highlighting recent activity.
 
 **Funding**
 
-- 2024 Better Scientific Software Fellowship, U.S. Department of Energy (Office of Advanced Scientific Computing Research and National Nuclear Security Administration) & U.S. National Science Foundation
+- <a href="https://bssw.io/blog_posts/introducing-the-2024-bssw-fellows">2024 Better Scientific Software Fellowship</a>, U.S. Department of Energy (Office of Advanced Scientific Computing Research and National Nuclear Security Administration) & U.S. National Science Foundation
 - Preeminent Postdoctoral Program, University of Central Florida
 
 **Awards**
