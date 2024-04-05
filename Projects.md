@@ -7,6 +7,13 @@ subtitle: Current and Past Contributions
 
 ## Current
 
+**Team Learning in Scientific Software Projects** (2024 - Present)
+<br>
+*U.S. Dept. of Energy and National Science Foundation*
+
+#### Role: Principal Investigator
+
+
 **Cognition in Support of Future Space Missions** (2022 - Present)
 <br>
 *Minerva Research Initiative* 
