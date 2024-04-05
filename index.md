@@ -21,7 +21,7 @@ sitemap:
 <p align="justify">
 I am a Researcher in the <a href="https://csl.ist.ucf.edu/">Cognitive Sciences Lab</a> at the <a href="https://www.ucf.edu/">University of Central Florida</a> where I currently study cognition, behavior, and technology in the context of interdisciplinary science and collaborative software development. Through my research, I'm interested in promoting <strong>social good</strong> and accelerating <strong>innovation</strong>.</p>
 
-<p align="justify">In my research, I investigate <strong>how people use distributed information to learn and make decisions</strong> to achieve individual and cooperative goals. I further examine how technological affordances, intelligent machine agents, and social norms influence behavior. I integrate methods from the social, data, and computational sciences to model these relationships.</p>
+<p align="justify">In my research, I investigate <strong>how people use distributed information to learn and make decisions</strong> in service of individual and cooperative goals. I further examine how technological affordances, intelligent machine agents, and social norms influence behavior. I integrate methods from the social, data, and computational sciences to model these relationships.</p>
 
 <img src="{{ '/assets/img/areas.png' | prepend: site.baseurl }}" class="center"> 
 
