@@ -20,5 +20,5 @@ Workshop topics include, but are not limited to,:
 * Learning in Virtual and Hybrid Work Teams
 * Cross-Cultural Considerations for Effective Learning 
 
-Acknowledgement: This workshop is funded by the Better Scientific Software Fellowship awarded to Olivia B. Newton and sponsored by the U.S. Department of Energy (Office of Advanced Scientific Computing Research and National Nuclear Security Administration) & U.S. National Science Foundation.
+Acknowledgement: This workshop is funded by the Better Scientific Software Fellowship[https://bssw.io/blog_posts/introducing-the-2024-bssw-fellows] awarded to Olivia B. Newton and sponsored by the U.S. Department of Energy (Office of Advanced Scientific Computing Research and National Nuclear Security Administration) & U.S. National Science Foundation.
 
