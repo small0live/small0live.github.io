@@ -8,9 +8,9 @@ subtitle: Improving the effectiveness of scientific software teams through colla
 
 <hr>
 <p></p>
-<div style="text-align: center; ">
+<strong>
 The goal of this workshop is to bring together experts across disciplines and domains to develop an open knowledge base with tools to support and evaluate team learning in the interdisciplinary groups who produce scientific software.
-</strong></div>
+</strong>
 <p></p>
 <hr>
 
