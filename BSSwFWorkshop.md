@@ -20,15 +20,15 @@ Background: Interdisciplinary group work in scientific software development is i
 
 Workshop topics include, but are not limited to:
 
-* Learning in Collaborative Contexts
+* Drivers of Integrative Learning in Software Development
 * Demonstrability in Service of Learning
 * Inclusive Learning: Antecedents and Strategies
 * Learning to Learn: Attitudes, Behaviors, and Cognition
 * Learning in Virtual and Hybrid Work Teams
-* Cross-Cultural Considerations for Effective Learning 
 
+To register your interest in participating please use <a href="https://ucf.qualtrics.com/jfe/form/SV_eRQNC65K8GsS8iq">this link</a>.
 
-*If you would like more information and/or are interested in participating in this workshop, please feel free to contact me.*
+*If you would like more information, please feel free to contact me.* 
 
 Acknowledgement: This workshop is funded by the <a href="https://bssw.io/blog_posts/introducing-the-2024-bssw-fellows">Better Scientific Software Fellowship</a> awarded to Olivia B. Newton and sponsored by the U.S. Department of Energy (Office of Advanced Scientific Computing Research and National Nuclear Security Administration) & U.S. National Science Foundation.
 
