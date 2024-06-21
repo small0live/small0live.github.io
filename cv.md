@@ -53,7 +53,8 @@ Stowers, K., Kasdaglis, N., Rupp, M. A., <strong>Newton, O. B.</strong>, Chen, J
 <div style="text-align: justify"> 
 
 Silva, A. C. & Newton, O. B. (2024, September). Psychological fidelity: A systematic review to support simulation-based training. Poster accepted at 2024 ASPIRE—the HFES International Annual Meeting, Phoenix, AZ.
-
+<br>
+<br>
 <strong>Newton, O. B.</strong> & Fiore, S. M. (2023, October). Modeling the relationship between social diversity and organizational decision making in open collaborations in information systems. <i>Paper presented at the 2023 INFORMS Annual Meeting</i>, Phoenix, AZ. <strong>Dissertation Research</strong>
 <br>
 <br>
