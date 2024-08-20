@@ -9,7 +9,7 @@ sitemap:
 <hr>
 <p></p>
 
-<div style="text-align: center; "><strong> Jul. 2024 News: My dissertation research has been <a href="https://authors.elsevier.com/a/1ja0%7EbKHpGReb">published in the Journal of Systems and Software</a>.</strong><br><strong> Dec. 2023 News: I've been selected as a 2024 Better Scientific Software Fellow!</strong><br>
+<div style="text-align: center; "><strong><u>Recent News</u> <br>Jul. 2024: My dissertation research has been <a href="https://authors.elsevier.com/a/1ja0%7EbKHpGReb">published in the Journal of Systems and Software</a>.</strong><br><br><strong> Dec. 2023: I've been selected as a 2024 Better Scientific Software Fellow!</strong><br>
 <a href="https://bssw.io/blog_posts/introducing-the-2024-bssw-fellows">Click here to read about the BSSw fellowship sponsored by the U.S. Dept. of Energy and NSF.</a></div>
 
 <p></p>
