@@ -5,7 +5,7 @@ subtitle: An abbreviated version of my CV highlighting recent activity.
 ---
 <hr>
 <p></p>
-<div style="text-align: center; "><a href="{{ '/assets/OBNewton_CV2023.pdf' | prepend: site.baseurl }}"><strong>Click here to view and download a complete version of my CV as a PDF.</strong></a> </div>
+<div style="text-align: center; "><a href="{{ '/assets/OBNewton_CV2024.pdf' | prepend: site.baseurl }}"><strong>Click here to view and download a complete version of my CV as a PDF.</strong></a> </div>
 <p></p>
 <hr>
 
@@ -30,13 +30,16 @@ subtitle: An abbreviated version of my CV highlighting recent activity.
 
 **Journal Articles** 
 <div style="text-align: justify"> 
-<strong>Newton, O. B.</strong>, Saadat, S., Song, J., Sukthankar, G., & Fiore, S. M. (2022). EveryBOTy counts: Examining the relationship between bots and productivity in open source software teams. <i>Topics in Cognitive Science</i>. DOI: 10.1111/tops.12613<br>
+<strong>Newton, O. B.</strong> & Fiore, S. M. (2024). Modeling participation and corporatization in service of diversity in free/libre and open source software projects. <i>Journal of Systems and Software, 217</i>. DOI: 10.1016/j.jss.2024.112163<br>
+
+<br>
+<strong>Newton, O. B.</strong>, Saadat, S., Song, J., Sukthankar, G., & Fiore, S. M. (2022). EveryBOTy counts: Examining the relationship between bots and productivity in open source software teams. <i>Topics in Cognitive Science, 16</i>(3). 450-484. DOI: 10.1111/tops.12613<br>
 
 <br>
 Stowers, K., Kasdaglis, N., Rupp, M. A., <strong>Newton, O. B.</strong>, Chen, J.Y.C., & Barnes, M.J. (2020). The IMPACT of agent transparency on human performance. <i>IEEE Transactions on Human-Machine Systems, 50</i>(3). 245–253. DOI: 10.1109/THMS.2020.2978041<br>
 <br>
 
-<strong>Newton, O. B.</strong> & Stanfill, M. (2020). My NSFW video has partial occlusion: deepfakes and the technological production of nonconsensual pornography. <i>Porn Studies, 7</i>(4). 398–414. DOI: 10.1080/23268743.2019.1675091  <br>
+<strong>Newton, O. B.</strong> & Stanfill, M. (2020). My NSFW video has partial occlusion: deepfakes and the technological production of nonconsensual pornography. <i>Porn Studies, 7</i>(4). 398–414. DOI: 10.1080/23268743.2019.1675091 <br>
 </div>
 
 **Conference Proceedings** 
@@ -45,7 +48,7 @@ Stowers, K., Kasdaglis, N., Rupp, M. A., <strong>Newton, O. B.</strong>, Chen, J
 <strong>Newton, O. B.</strong>, Fiore, S. M., & Song, J. (2023). Validation of a theoretical framework of task complexity for research on visualization in support of decision making. <i>Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 67</i>(1). DOI: 10.1177/21695067231196237<br>
 
 <br>
- <strong>Newton, O. B.</strong> & Fiore, S. M. (2023). Leveraging corporate engagement for diversity in free/libre and open source software projects. <i>The Fourth Workshop on Gender Equity, Diversity, and Inclusion in Software Engineering at the 45th International Conference on Software Engineering (GE@ICSE2023)</i>. DOI: 10.1109/GEICSE59319.2023.00010 <strong>Dissertation Research | Awarded Best Paper</strong>
+<strong>Newton, O. B.</strong> & Fiore, S. M. (2023). Leveraging corporate engagement for diversity in free/libre and open source software projects. <i>The Fourth Workshop on Gender Equity, Diversity, and Inclusion in Software Engineering at the 45th International Conference on Software Engineering (GE@ICSE2023)</i>. DOI: 10.1109/GEICSE59319.2023.00010 <strong>Dissertation Research | Awarded Best Paper</strong>
 </div>
 
 ### PRESENTATIONS
