@@ -14,7 +14,7 @@ The goal of this 2-day workshop is to bring together experts across disciplines 
 
 Location: Univerity of Central Florida, Orlando, FL, USA
 
-Date: October 2024 (exact dates TBA)
+Date: November 4-5, 2024
 
 Background: Interdisciplinary group work in scientific software development is increasingly common as institutional initiatives aim to advance science through collaboration and technological innovation. These collaborations are created with the goal of solving problems that are complex in nature and thus benefit from the integration of varied forms of expertise and perspectives to produce software. Team learning has been identified as a key process for the performance and collaboration effectiveness of scientific teams. At the same time, facilitating this form of learning remains a challenge given the breadth of expertise that must be synthesized to effectively build knowledge. The products of the workshop will contribute to collective understanding of collaborative learning in scientific software development, and also will be made open and usable to all in service of better scientific software.
 
