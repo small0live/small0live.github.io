@@ -30,7 +30,7 @@ subtitle: An abbreviated version of my CV highlighting recent activity.
 
 **Journal Articles** 
 <div style="text-align: justify"> 
-<strong>Newton, O. B.</strong> & Fiore, S. M. (2024). Modeling participation and corporatization in service of diversity in free/libre and open source software projects. <i>Journal of Systems and Software, 217</i>. DOI: 10.1016/j.jss.2024.112163<br>
+<strong>Newton, O. B.</strong> & Fiore, S. M. (2024). Understanding participation and corporatization in service of diversity in free/libre and open source software projects. <i>Journal of Systems and Software, 217</i>. DOI: 10.1016/j.jss.2024.112163<br>
 
 <br>
 <strong>Newton, O. B.</strong>, Saadat, S., Song, J., Sukthankar, G., & Fiore, S. M. (2022). EveryBOTy counts: Examining the relationship between bots and productivity in open source software teams. <i>Topics in Cognitive Science, 16</i>(3). 450-484. DOI: 10.1111/tops.12613<br>
