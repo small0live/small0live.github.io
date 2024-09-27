@@ -28,9 +28,7 @@ Workshop topics include, but are not limited to:
 * Inclusive Learning: Antecedents and Strategies
 * Team Heterogeneity and Social Harmony
 
-To register your interest in participating please use <a href="https://ucf.qualtrics.com/jfe/form/SV_eRQNC65K8GsS8iq">this link</a>. Invitees will be asked to submit a short position paper (no more than 2 pages) prior to the workshop. 
-
-Early-career individuals and members of groups that have historically been underrepresented in STEM are highly encouraged to submit to this event.
+Invitees will be asked to submit a short position paper (no more than 2 pages) prior to the workshop. 
 
 *If you would like more information, please visit the <a href="https://bssw.io/events/workshop-team-learning-for-better-scientific-software">BSSw event page</a>.*
 
