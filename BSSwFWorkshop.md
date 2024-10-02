@@ -12,7 +12,7 @@ The goal of this 2-day workshop is to bring together experts across disciplines 
 <p></p>
 <hr>
 
-Location: Univerity of Central Florida, Orlando, FL, USA
+Location: Institute for Simulation and Training, Univerity of Central Florida, Orlando, FL, USA
 
 Date: November 4-5, 2024
 
@@ -28,9 +28,8 @@ Workshop topics include, but are not limited to:
 * Inclusive Learning: Antecedents and Strategies
 * Team Heterogeneity and Social Harmony
 
-Invitees will be asked to submit a short position paper (no more than 2 pages) prior to the workshop. 
+Invitees will be asked to submit a short position paper (no more than 2 pages) prior to the workshop. The position paper submission deadline Friday, October 18, 2024 11:59 AoE.
 
-*If you would like more information, please visit the <a href="https://bssw.io/events/workshop-team-learning-for-better-scientific-software">BSSw event page</a>.*
 
 *Feel free to contact the organizer: olivia.newton[at]ucf.edu.* 
 
