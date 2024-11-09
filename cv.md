@@ -45,6 +45,12 @@ Stowers, K., Kasdaglis, N., Rupp, M. A., <strong>Newton, O. B.</strong>, Chen, J
 **Conference Proceedings** 
 
 <div style="text-align: justify"> 
+Duruaku, F., Nguyen, B., <strong>Newton, O. B.</strong>, Fiore, S. M., & Jentsch, F. G. (2024). Scaffolding team minds: Using metacognitive training to boost social cognition and theory of mind for effective collaborative problem solving. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 68(1). DOI: 10.1177/10711813241275920<br>
+
+<br>
+Sonnenfeld, N. A., Niacaris, L., Diaz Alfaro, G., Nguyen, B., Daniliv, V., <strong>Newton, O. B.</strong>, Jentsch, F. G., & Fiore, S. M. (2024). Eliciting requirements and recommendations for training macrocognition in teams: Considerations for collaborative problem solving. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 68(1). DOI:10.1177/10711813241275508<br>
+
+<br>
 <strong>Newton, O. B.</strong>, Fiore, S. M., & Song, J. (2023). Validation of a theoretical framework of task complexity for research on visualization in support of decision making. <i>Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 67</i>(1). DOI: 10.1177/21695067231196237<br>
 
 <br>
