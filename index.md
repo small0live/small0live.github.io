@@ -19,7 +19,7 @@ sitemap:
 <img src="{{ '/assets/img/bwbw.png' | prepend: site.baseurl }}" class = "rounded-corners" align="right"> 
 <p></p>
 <p align="justify">
-I am a Researcher in the <a href="https://csl.ist.ucf.edu/">Cognitive Sciences Lab</a> at the <a href="https://www.ucf.edu/">University of Central Florida</a> where I currently study cognition, behavior, and technology in the context of interdisciplinary science and collaborative software development. Through my research, I'm interested in promoting <strong>social good</strong> and accelerating <strong>innovation</strong>.</p>
+I am faculty in the <a href="https://www.umt.edu/business/">College of Business</a> at the <a href="https://www.umt.edu/">University of Montana</a> where I currently study cognition, behavior, and technology in interdisciplinary, collaborative software development in scientific computing. Through my research, I'm interested in promoting <strong>social good</strong> and accelerating <strong>innovation</strong>. Previously, I was a Postdoctoral Scholar in the <a href="https://csl.ist.ucf.edu/">Cognitive Sciences Lab</a> at the <a href="https://www.ucf.edu/">University of Central Florida</a> </p>
 
 <p align="justify">In my research, I investigate <strong>how people use distributed information to learn and make decisions</strong> in service of individual and cooperative goals. I further examine how technological affordances, intelligent machine agents, and social norms influence behavior in cooperative contexts. I integrate methods from the social and computational sciences to model these relationships.</p>
 
