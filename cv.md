@@ -69,9 +69,11 @@ Silva, A. C. & Newton, O. B. (2024, September). Psychological fidelity: A system
 <br>
 <strong>Newton, O. B.</strong> & Fiore, S. M. (2023, June). Perceptions of collective learning in scientific software teams. <i>Poster presented at the International Conference on Science of Science and Innovation</i>, Evanston, IL.<br></div>
  
-### EXPERIENCE
+### APPOINTMENTS
 
-Postdoctoral Scholar - **University of Central Florida** <span style="float: right; ">January 2023 - Present</span>  
+Research Faculty Affliate - **University of Montana** <span style="float: right; ">November 2024 - Present</span>  
+
+Postdoctoral Scholar - **University of Central Florida** <span style="float: right; ">January 2023 - November 2024</span>  
 
 Management of research activities and staff for projects funded by major organizations (National Science Foundation, Minerva Research Initiative) applying mixed methods to model human behavior, cognition, and performance (a) in individuals and groups (b) with emerging technologies (c) in sociotechnical systems
 
