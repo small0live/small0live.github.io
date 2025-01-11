@@ -23,6 +23,7 @@ subtitle: An abbreviated version of my CV highlighting recent activity.
 
 **Press**
 
+- Sustainable Horizons Institute | BSSw Blog (2024, September). <a href="https://bssw.io/blog_posts/better-teams-better-software-stronger-community">"Better Teams, Better Software, Stronger Community."</a>
 - UCF Today (2024, March). <a href="https://www.ucf.edu/news/ucf-alum-postdoctoral-scholar-receives-better-scientific-software-fellowship">"Postdoctoral Scholar Receives Better Scientific Software Fellowship."</a>
 - UCF Today (2023, May). <a href="https://www.ucf.edu/news/latina-alumna-postdoctoral-researcher-inspiring-underrepresented-youth-to-excel-in-tech-world">“Latina Alumna, Postdoctoral Researcher Inspiring Underrepresented Youth to Excel in Tech World.”</a>
 
