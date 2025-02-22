@@ -79,7 +79,9 @@ Silva, A. C. & Newton, O. B. (2024, September). Psychological fidelity: A system
  
 ### APPOINTMENTS
 
-Research Faculty Affliate - **University of Montana** <span style="float: right; ">November 2024 - Present</span>  
+Adjunct Professor - **University of Montana** <span style="float: right; ">February 2025 - Present</span>  
+
+Research Associate - **University of Montana** <span style="float: right; ">October 2024 - Present</span>  
 
 Postdoctoral Scholar - **University of Central Florida** <span style="float: right; ">January 2023 - November 2024</span>  
 
