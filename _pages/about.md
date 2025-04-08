@@ -14,6 +14,6 @@ Some of my recent accomplishments are highlighted below.
 
 - <a href="https://doi.org/10.1016/j.jss.2024.112163">Published in the Journal of Systems and Software</a>: my dissertation research examining company involvement in open source software development (July 2024).
 
-- <a href="https://doi.org/10.1111/tops.12613">Published in Topics in Cognitive Science</a>: research analyzing the association between bots and productivity in open source software development (July 2024).
+- <a href="https://doi.org/10.1111/tops.12613">Published in Topics in Cognitive Science</a>: my research analyzing the association between bots and productivity in open source software development (July 2024).
 
 - <a href="https://bssw.io/blog_posts/introducing-the-2024-bssw-fellows">Selected as a 2024 Better Scientific Software Fellow</a> (December 2023).
