@@ -1,0 +1,153 @@
+#-------------------------------
+# Site Settings
+title: Olivia B. Newton, Ph.D.
+logo: # You can add own logo. For example '/images/logo.png'.
+description: # Creative personal blog theme for Jekyll
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: "About"
+      url: "/about/"
+    #- title: "Contact"
+    #  url: "/contact/"
+    #- title: "Elements"
+    #  url: "/elements/"
+    - title: "Projects"
+      submenu:
+      - url: "/Next-Gen/"
+        title: "Scientific Computing"
+      - url: "/Psych-Fid/"
+        title: "Psychological Fidelity"
+    #- title: "Pages" # this demos creating a submenu
+    #  submenu:
+    #  - url: "/if-you-cannot-do-great-things-do-small-things-in-a-great-way/"
+    #    title: "Lifestyle"
+    #  - url: "/you-must-be-the-change-you-wish-to-see-in-the-world/"
+    #    title: "Workflow"
+
+
+#-------------------------------
+# Author Settings
+author:
+  author__name: Olivia B. Newton, Ph.D.
+  author__avatar: "/images/obn.png"
+  author__bio: I'm a researcher who is passionate about improving scientific collaboration! I love working with experts across disciplines to solve complex problems with significant societal impact.
+
+#-------------------------------
+# Links Section Settings
+links:
+  enable: true
+  links__title: "View my complete CV as a PDF"
+
+links__item:
+  - title: My Curriculum Vitae
+    description: A summary of my qualifications, accomplishments, and education. 
+    image_url: "/images/CV-1.png"
+    image_alt: First page of CV
+    link: "https://bit.ly/obn_cv"
+
+#  - title: ...2
+#    description: Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta.
+#    image_url: "/images/111.jpg"
+#    image_alt: Illustrator
+#    link: "https://google.com"
+#
+#  - title: ...3
+#    description: Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta.
+#    image_url: "/images/112.jpg"
+#    image_alt: Movies
+#    link: "https://www.netflix.com"
+#
+#  - title: ...4
+#    description: Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta.
+#    image_url: "/images/114.jpg"
+#    image_alt: Best exercises
+#    link: "https://google.com"
+#
+#  - title: ...5
+#    description: Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta.
+#    image_url: "/images/115.jpg"
+#    image_alt: Ask Me A Question
+#    link: "https://instagram.com"
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Hi | Hola, I'm <br> <span>Olivia B. Newton</span>. # Wrap text in a <span></span> tag to highlight and underline text.
+  hero__job: Interdisciplinary Scientist
+  hero__description: My work focuses on enhancing human cognition and collaboration in science and engineering.
+  hero__button__text: Get to know me
+  hero__button__link: "/about/"
+  hero__image: "/images/obn.png"
+
+
+#-------------------------------
+# Gallery Footer Section
+gallery:
+  enable: false # set to true once this section is updated
+  gallery__title: Gallery
+  gallery__columns: "3" # You can change the number of gallery columns
+  gallery__images:
+    - alt: "Rest"
+      url: "/images/100.jpg"
+    - alt: "Lifestyle"
+      url: "/images/101.jpg"
+    - alt: "Hobby"
+      url: "/images/102.jpg"
+    - alt: "Notes"
+      url: "/images/103.jpg"
+    - alt: "Rest"
+      url: "/images/104.jpg"
+    - alt: "Hobby"
+      url: "/images/105.jpg"
+
+
+#-------------------------------
+# Newsletter
+mailchimp:
+  enable: false # set to true if this section is updated
+  mailchimp__title: Subscribe to new posts # Add your Title
+  mailchimp__text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
+  mailchimp__identifier: "frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp__button__text: Subscribe
+
+
+#-------------------------------
+# Social Icons Settings
+social:
+# - {icon: "ion-logo-twitter", name: "Twitter", link: "https://twitter.com"}
+- {icon: "ion-logo-google", name: "Google Scholar", link: "https://scholar.google.com/citations?user=LuRBAzgAAAAJ&hl"}
+- {icon: "ion-logo-github", name: "GitHub", link: "https://github.com/small0live"}
+- {icon: "ion-logo-linkedin", name: "LinkedIn", link: "https://in.linkedin.com/in/olivia-b-newton"}
+# - {icon: "ion-logo-youtube", name: "Youtube", link: "https://youtube.com"}
+# - {icon: "ion-logo-pinterest", name: "Pinterest", link: "https://pinterest.com"}
+# - {icon: "ion-logo-codepen", name: "Codepen", link: "https://codepen.io"}
+# - {icon: "ion-logo-vimeo", name: "Vimeo", link: "https://vimeo.com"}
+
+# Example of adding a new link to the author section and footer: - {icon: "ion-logo-dribbble", name: "Dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: your@email.com # Add your email for contant form
+  description: # Atega comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+
+# NOTE
+# Atega theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: G-Z31GXG8C7L # Add your GA Tracking Id

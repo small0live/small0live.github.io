@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Olivia B. Newton, Ph.D.</title>
+        <description></description>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 08 Apr 2025 15:01:35 -0600</pubDate>
+        <lastBuildDate>Tue, 08 Apr 2025 15:01:35 -0600</lastBuildDate>
+        <generator>Jekyll v4.4.1</generator>
+        
+            <item>
+                <title>Next-Generation Ecosystems for Scientific Computing: Harnessing Community, Software, and AI for Mission-Driven Team Science</title>
+                <description>&lt;p&gt;&lt;a href=&quot;https://bit.ly/next-gen-ecosystems&quot;&gt;Check out our upcoming workshop.&lt;/a&gt;&lt;/p&gt;
+
+</description>
+                <pubDate>Mon, 30 Sep 2024 00:00:00 -0600</pubDate>
+                <link>http://localhost:4000/Next-Gen/</link>
+                <guid isPermaLink="true">http://localhost:4000/Next-Gen/</guid>
+                
+                
+            </item>
+        
+            <item>
+                <title>Psychological Fidelity: A Systematic Review to Support Simulation-Based Training</title>
+                <description>&lt;p&gt;Psychological fidelity, or the degree that a simulation produces affective and cognitive processes that correspond to the real-world environment, has been identified as an essential aspect of training efficacy and in particular for team training. Notably, psychological fidelity “&lt;em&gt;correlates strongly to credibility, suspension of disbelief, and engagement&lt;/em&gt;” (Kuipers et al., 2019).&lt;/p&gt;
+
+&lt;p&gt;Although the notion of psychological fidelity in simulation-based training was introduced in the literature as early three decades ago (e.g., Patrick et al., 1996), the concept remains understudied and underutilized in the development and evaluation of simulation. As such, there is a need to grow research on psychological fidelity in simulation.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1Boa5nzELny-x-gyhAPtyVdvkM9FpzhTyhYsRgTKcqAw/edit?usp=sharing&quot;&gt;Check out our HFES 2024 poster which presents preliminary results from a systematic literature review.&lt;/a&gt;&lt;/p&gt;
+
+</description>
+                <pubDate>Mon, 01 Jan 2024 00:00:00 -0700</pubDate>
+                <link>http://localhost:4000/Psych-Fid/</link>
+                <guid isPermaLink="true">http://localhost:4000/Psych-Fid/</guid>
+                
+                
+            </item>
+        
+    </channel>
+</rss>
