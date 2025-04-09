@@ -2,7 +2,7 @@
 # Site Settings
 title: Olivia B. Newton, Ph.D.
 logo: # You can add own logo. For example '/images/logo.png'.
-description: # Creative personal blog theme for Jekyll
+description: My website
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -14,7 +14,7 @@ menu__settings:
       url: "/about/"
     #- title: "Contact"
     #  url: "/contact/"
-    #- title: "Elements"
+    # - title: "Elements"
     #  url: "/elements/"
     - title: "Projects"
       submenu:
@@ -22,6 +22,8 @@ menu__settings:
         title: "Scientific Computing"
       - url: "/Psych-Fid/"
         title: "Psychological Fidelity"
+      - url: "/Past-Projects/"
+        title: "Past Projects"
     #- title: "Pages" # this demos creating a submenu
     #  submenu:
     #  - url: "/if-you-cannot-do-great-things-do-small-things-in-a-great-way/"
@@ -41,7 +43,7 @@ author:
 # Links Section Settings
 links:
   enable: true
-  links__title: "View my complete CV as a PDF"
+  links__title: "View my CV as a PDF"
 
 links__item:
   - title: My Curriculum Vitae
