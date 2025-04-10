@@ -22,14 +22,14 @@ image:
 #### Understanding Team Science to Help Reinvent Scientific Talent
 
 * Role: Research Lead 
-* Sponsor: National Science Foundation* (PI: Stephen M. Fiore)
-* Activity period: 2021 - September 2024
+* Sponsor: National Science Foundation (PI: Stephen M. Fiore)
+* Activity period: January 2021 - September 2024
 
 
 #### Company Involvement in Free/Libre and Open Source Software
 
 * Role: Prinicipal Investigator
-* Sponsor: N/A, Dissertation Funding
+* Sponsor: N/A; Dissertation Funding:
   * NTSA RADM Fred Lewis I/ITSEC Postgraduate Scholarship
   * UCF Doctoral Research Support Award
 * Activity period: August 2020 - July 2024
@@ -39,14 +39,14 @@ image:
 
 * Role: Researcher, Publication Development and Oversight Committee Member
 * Sponsor: Defense Advanced Research Projects Agency (PI: Stephen M. Fiore)
-* Activity period: 2019 - 2020
+* Activity period: August 2019 - August 2020
 
 
 #### Computational Simulation of Online Social Behavior
 
 * Role: Researcher, GRA Coordinator
 * Sponsor: Defense Advanced Research Projects Agency (PI: Ivan Garibay)
-* Activity period: 2017 - 2019
+* Activity period: August 2017 - July 2019
 
 
 #### Interactive Visualization in Support of Decision Making Under Uncertainty
