@@ -5,8 +5,8 @@
         <description>My website</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Apr 2025 22:32:05 -0600</pubDate>
-        <lastBuildDate>Sun, 13 Apr 2025 22:32:05 -0600</lastBuildDate>
+        <pubDate>Mon, 05 May 2025 11:35:07 -0600</pubDate>
+        <lastBuildDate>Mon, 05 May 2025 11:35:07 -0600</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
         
             <item>
@@ -52,6 +52,40 @@
                 <pubDate>Mon, 01 Jan 2024 00:00:00 -0700</pubDate>
                 <link>http://localhost:4000/Psych-Fid/</link>
                 <guid isPermaLink="true">http://localhost:4000/Psych-Fid/</guid>
+                
+                
+            </item>
+        
+            <item>
+                <title>Expertise Utilization in Hybrid Teams</title>
+                <description>&lt;h4 id=&quot;my-role&quot;&gt;My Role&lt;/h4&gt;
+
+&lt;p&gt;I’m working with &lt;a href=&quot;https://www.umt.edu/business-faculty-staff/directory/management-marketing.php?ID=8747&quot;&gt;Tyler R. Talbot&lt;/a&gt; to analyze findings from a lab study examining differences in performance and process associated with work configuration (face-to-face, remote, hybrid).&lt;/p&gt;
+
+&lt;h4 id=&quot;status&quot;&gt;Status&lt;/h4&gt;
+
+&lt;p&gt;This project is in the analysis stage with the goal of submitting to a journal venue in the organizational sciences.&lt;/p&gt;
+</description>
+                <pubDate>Mon, 01 Jan 2024 00:00:00 -0700</pubDate>
+                <link>http://localhost:4000/Hybrid-Teams/</link>
+                <guid isPermaLink="true">http://localhost:4000/Hybrid-Teams/</guid>
+                
+                
+            </item>
+        
+            <item>
+                <title>Team Learning for Better Scientific Software</title>
+                <description>&lt;h4 id=&quot;my-role&quot;&gt;My Role&lt;/h4&gt;
+
+&lt;p&gt;I’m leading this project with a group of 11 collaborators across university and national laboratories across the United States.&lt;/p&gt;
+
+&lt;h4 id=&quot;workshop&quot;&gt;Workshop&lt;/h4&gt;
+
+&lt;p&gt;Check out &lt;a href=&quot;https://tl4bssw.github.io/&quot;&gt;tl4bssw.github.io&lt;/a&gt; to learn about the workshop I organized in November 2024.&lt;/p&gt;
+</description>
+                <pubDate>Fri, 01 Dec 2023 00:00:00 -0700</pubDate>
+                <link>http://localhost:4000/TL4BSSw/</link>
+                <guid isPermaLink="true">http://localhost:4000/TL4BSSw/</guid>
                 
                 
             </item>

@@ -20,6 +20,10 @@ menu__settings:
         title: "Scientific Computing"
       - url: "/Psych-Fid/"
         title: "Psychological Fidelity"
+      - url: "/TL4BSSw/"
+        title: "Team Learning"
+      - url: "/Hybrid-Teams/"
+        title: "Expertise in Hybrid Teams"
       - url: "/Past-Projects/"
         title: "Past Projects"
 

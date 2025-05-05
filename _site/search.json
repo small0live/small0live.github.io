@@ -12,6 +12,20 @@
       "url"      : "/Psych-Fid/",
       "date"     : "01 January 2024",
       "image"    : "/images/psych-fid-pub-dates.png"
+    } ,
+  
+    {
+      "title"    : "Expertise Utilization in Hybrid Teams",
+      "url"      : "/Hybrid-Teams/",
+      "date"     : "01 January 2024",
+      "image"    : ""
+    } ,
+  
+    {
+      "title"    : "Team Learning for Better Scientific Software",
+      "url"      : "/TL4BSSw/",
+      "date"     : "01 December 2023",
+      "image"    : "/images/workshopareasofwork.png"
     } 
   
 ]
