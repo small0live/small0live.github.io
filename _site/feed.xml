@@ -5,8 +5,8 @@
         <description>My website</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 May 2025 11:35:07 -0600</pubDate>
-        <lastBuildDate>Mon, 05 May 2025 11:35:07 -0600</lastBuildDate>
+        <pubDate>Mon, 05 May 2025 22:33:39 -0600</pubDate>
+        <lastBuildDate>Mon, 05 May 2025 22:33:39 -0600</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
         
             <item>
@@ -77,7 +77,7 @@
                 <title>Team Learning for Better Scientific Software</title>
                 <description>&lt;h4 id=&quot;my-role&quot;&gt;My Role&lt;/h4&gt;
 
-&lt;p&gt;I’m leading this project with a group of 11 collaborators across university and national laboratories across the United States.&lt;/p&gt;
+&lt;p&gt;I’m leading this project with a group of 11 collaborators from universities and national laboratories across the United States.&lt;/p&gt;
 
 &lt;h4 id=&quot;workshop&quot;&gt;Workshop&lt;/h4&gt;
 
