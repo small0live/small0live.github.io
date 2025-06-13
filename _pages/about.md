@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a member of the faculty at the University of Montana (UM). Broadly, my interests span the study of cognition, behavior, and technology in groups. I integrate approaches from the social and computational sciences to enhance teamwork. My current funded research examines collaboration and software in scientific computing. My other research projects examine topics in training and expertise in human-machine systems. I also [teach in UM's Master of Science in Business Analytics program](/teaching/). 
+I'm a member of the faculty at the University of Montana (UM). Broadly, my interests span the study of cognition, behavior, and technology in groups. I integrate approaches from the social and computational sciences to enhance teamwork. Currently, I work on U.S. DOE sponsored research on collaboration and software in scientific computing. My other research projects examine topics in training and expertise in human-machine systems. I also [teach in UM's Master of Science in Business Analytics program](/teaching/). 
 
 Some of my recent accomplishments are highlighted below.
 
