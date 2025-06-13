@@ -147,6 +147,56 @@
   margin: 0 auto 60px;
   color: var(--text-color);
 
+  .post__toc {
+    padding: 32px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    border-left: 4px solid var(--brand-color);
+    box-shadow: inset 0 0 0 1px var(--background-alt-color-2);
+    background-color: var(--background-alt-color);
+
+    .post__toc__title {
+      padding-bottom: 8px;
+      margin-bottom: 24px;
+      font-size: 18px;
+      font-weight: 500;
+      border-bottom: 1px solid var(--border-alt-color);
+    }
+
+    ol, ul {
+      margin-bottom: 0;
+
+      li {
+        margin-bottom: 8px;
+        font-size: 16px;
+        line-height: 1.5;
+
+        &:last-child {
+          margin-bottom: 0;
+        }
+
+        &::marker {
+          color: var(--text-alt-color);
+        }
+
+        a {
+          font-weight: 400;
+          border-bottom-color: var(--text-color);
+          transition: all .2s;
+
+          &:hover {
+            color: var(--brand-color);
+            border-bottom-color: var(--brand-color);
+          }
+        }
+      }
+    }
+
+    @media (max-width: $mobile) {
+      padding: 25px;
+    }
+  }
+
   a {
     font-weight: 500;
     border-bottom: 1px solid var(--border-color);
@@ -169,17 +219,6 @@
   img[src$='#wide'] {
     display: block;
     width: 100vw;
-    max-width: none;
-    margin-left: 50%;
-    transform: translateX(-50%);
-    border-radius: 0;
-    pointer-events: none;
-    user-select: none;
-  }
-
-  img[src$='#small'] {
-    display: block;
-    width: 50%;
     max-width: none;
     margin-left: 50%;
     transform: translateX(-50%);
@@ -219,6 +258,41 @@
     border: none;
     text-decoration: none;
   }
+
+  .note, .tip, .important, .warning, .caution {
+    position: relative;
+    padding: 32px 32px 32px 64px;
+    font-family: $base-font-family;
+    color: var(--heading-font-color);
+
+    &::after {
+      content: "\1F4A1";
+      position: absolute;
+      top: 32px;
+      left: 32px;
+      display: block;
+    }
+  }
+
+  .note {
+    background: var(--callout-note);
+  }
+
+  .tip {
+    background: var(--callout-tip);
+  }
+
+  .important {
+    background: var(--callout-important);
+  }
+
+  .warning {
+    background: var(--callout-warning);
+  }
+
+  .caution {
+    background: var(--callout-caution);
+  }
 }
 
 /* Share */
@@ -242,7 +316,7 @@
     width: 40px;
     height: 40px;
     line-height: 40px;
-    font-size: 18px;
+    font-size: 17px;
     border-radius: 8px;
     transition: all .25s;
     color: var(--background-alt-color);

@@ -211,8 +211,7 @@
       }
 
       .arrow-down {
-        font-size: 16px;
-        vertical-align: middle;
+        font-size: 12px;
       }
 
       .dropdown-toggle {
@@ -267,7 +266,7 @@
   display: flex;
   align-items: center;
   margin-left: auto;
-  font-size: 20px;
+  font-size: 15px;
   color: var(--link-color);
   cursor: pointer;
 
@@ -289,7 +288,7 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    font-size: 21px;
+    font-size: 17px;
 
     .icon__menu {
       display: block;
@@ -370,12 +369,21 @@
 
 .toggle-sun,
 .toggle-moon {
+  font-size: 17px;
   line-height: 1;
   transition: color .25s ease;
   color: var(--heading-font-color);
 
   &:hover {
     color: var(--brand-color);
+  }
+
+  i {
+    vertical-align: middle;
+  }
+
+  @media (max-width: $desktop) {
+    font-size: 18px;
   }
 }
 

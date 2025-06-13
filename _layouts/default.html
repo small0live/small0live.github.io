@@ -12,21 +12,21 @@
   <div class="global-wrap">
 
     {% include header.html %}
-  
+
     <!-- begin content -->
     <main class="content" aria-label="Content">
       {{ content }}
     </main>
     <!-- end content -->
 
-    <div class="top" title="Top"><i class="ion ion-md-arrow-round-up"></i></div>
+    <div class="top" title="Top"><i class="fa-solid fa-arrow-up-long"></i></div>
 
     {% include footer.html %}
   </div>
   <!-- end global wrap -->
 
-  <script src="{{ site.baseurl }}/js/scripts.js"></script>
-  <script src="{{ site.baseurl }}/js/common.js"></script>
+  <script src="{{ '/js/scripts.js' | relative_url }}"></script>
+  <script src="{{ '/js/common.js' | relative_url }}"></script>
 </body>
 
 </html>

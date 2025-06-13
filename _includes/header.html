@@ -25,7 +25,7 @@
               {% for item in site.data.settings.menu__settings.menu__items %}
               {% if item.submenu %}
               <li class="nav__item dropdown">
-                <span class="nav__link dropdown-toggle">{{ item.title }} <i class="ion ion-ios-arrow-down arrow-down"></i></span>
+                <span class="nav__link dropdown-toggle">{{ item.title }} <i class="arrow-down fa-solid fa-chevron-down"></i></span>
                 <div class="dropdown-menu">
                   {% for submenu-item in item.submenu %}
                     <a href="{{ submenu-item.url }}" class="nav__link{% if page.url == submenu-item.url %} active-link{% endif %}">{{submenu-item.title}}</a>
@@ -45,17 +45,17 @@
           <div class="nav-buttons">
             {% if site.data.settings.color_scheme == "auto" %}
             <div class="toggle-theme">
-              <div class="toggle-moon" title="Enable dark mode" aria-hidden="true"><i class="ion ion-ios-moon"></i></div>
-              <div class="toggle-sun" title="Enable light mode" aria-hidden="true"><i class="ion ion-ios-sunny"></i></div>
+              <div class="toggle-moon" title="Enable dark mode" aria-hidden="true"><i class="fa-solid fa-moon"></i></div>
+              <div class="toggle-sun" title="Enable light mode" aria-hidden="true"><i class="fa-solid fa-sun"></i></div>
             </div>
             {% elsif site.data.settings.color_scheme == "light" or site.data.settings.color_scheme == "dark" %}
             {% else %}
             <div class="toggle-theme">
-              <div class="toggle-moon" title="Enable dark mode"><i class="ion ion-ios-moon" aria-hidden="true"></i></div>
-              <div class="toggle-sun" title="Enable light mode"><i class="ion ion-ios-sunny" aria-hidden="true"></i></div>
+              <div class="toggle-moon" title="Enable dark mode"><i class="fa-solid fa-moon" aria-hidden="true"></i></div>
+              <div class="toggle-sun" title="Enable light mode"><i class="fa-solid fa-sun" aria-hidden="true"></i></div>
             </div>
             {% endif %}
-            <i class="nav__icon icon__search ion ion-md-search"></i>
+            <i class="nav__icon icon__search fa-solid fa-magnifying-glass"></i>
           </div>
         </nav>
 

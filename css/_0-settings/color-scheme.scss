@@ -26,7 +26,7 @@
 
   $button-color: $white;
   $button-background-color: $brand-color;
-  $button-background-hover: darken($brand-color, 5%);
+  $button-background-hover: #e6008f;
 
   $border-color: $lighten-gray;
   $border-alt-color: $lighten-gray;
@@ -62,6 +62,11 @@
   --th-color: #{$th-color};
   --tr-color: #{$tr-color};
   --syntax-highlighting-background: #{$syntax-highlighting-background};
+  --callout-note: #d3eaf5;
+  --callout-tip: #d8eedb;
+  --callout-important: #e4dff1;
+  --callout-warning: #f6ebda;
+  --callout-caution: #ebd1d1;
 }
 
 :root[dark] {
@@ -87,7 +92,7 @@
 
   $button-color: $white;
   $button-background-color: var(--brand-color);
-  $button-background-hover: darken($brand-color, 5%);
+  $button-background-hover: #e6008f;
 
   $border-color: #1a1a1a;
   $border-alt-color: $dark;
@@ -120,4 +125,9 @@
   --th-color: #{$th-color};
   --tr-color: #{$tr-color};
   --syntax-highlighting-background: #{$syntax-highlighting-background};
+  --callout-note: #12284a;
+  --callout-tip: #152d24;
+  --callout-important: #271a49;
+  --callout-warning: #624213;
+  --callout-caution: #5d1414;
 }

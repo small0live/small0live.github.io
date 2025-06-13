@@ -12,9 +12,7 @@ menu__settings:
   menu__items:
     - title: "About"
       url: "/about/"
-    #- title: "Contact"
-    #  url: "/contact/"
-    - title: "Projects"
+    - title: "Research"
       submenu:
       - url: "/Next-Gen/"
         title: "Scientific Computing"
@@ -26,13 +24,15 @@ menu__settings:
         title: "Expertise in Hybrid Teams"
       - url: "/Past-Projects/"
         title: "Past Projects"
+    - title: "Teaching"
+      url: "/teaching/"
 
 #-------------------------------
 # Author Settings
 author:
   author__name: Olivia B. Newton, Ph.D.
   author__avatar: "/images/obn.png"
-  author__bio: I'm a researcher who is passionate about improving scientific collaboration! I love working with experts across disciplines to solve complex problems with significant societal impact.
+  author__bio: I'm a researcher who is passionate about improving scientific collaboration—I love working with experts across disciplines to solve complex problems with significant societal impact.
 
 #-------------------------------
 # Links Section Settings
@@ -58,7 +58,7 @@ links__item:
 # Hero Settings
 hero:
   hero__title: Hi | Hola, I'm <br> <span>Olivia B. Newton</span>. # Wrap text in a <span></span> tag to highlight and underline text.
-  hero__job: Interdisciplinary Scientist
+  hero__job: 
   hero__description: My work focuses on enhancing human cognition and collaboration in science and engineering.
   hero__button__text: Get to know me
   hero__button__link: "/about/"
@@ -99,9 +99,9 @@ mailchimp:
 #-------------------------------
 # Social Icons Settings
 social:
-- {icon: "ion-logo-google", name: "Google Scholar", link: "https://scholar.google.com/citations?user=LuRBAzgAAAAJ&hl"}
-- {icon: "ion-logo-github", name: "GitHub", link: "https://github.com/small0live"}
-- {icon: "ion-logo-linkedin", name: "LinkedIn", link: "https://in.linkedin.com/in/olivia-b-newton"}
+- {icon: "fa-brands fa-google-scholar", name: "Google Scholar", link: "https://scholar.google.com/citations?user=LuRBAzgAAAAJ&hl"}
+- {icon: "fa-brands fa-github", name: "GitHub", link: "https://github.com/small0live"}
+- {icon: "fa-brands fa-linkedin", name: "LinkedIn", link: "https://in.linkedin.com/in/olivia-b-newton"}
 
 # Example of adding a new link to the author section and footer: - {icon: "ion-logo-dribbble", name: "Dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
