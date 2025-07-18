@@ -5,8 +5,8 @@
         <description>My website</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Jun 2025 13:05:06 -0600</pubDate>
-        <lastBuildDate>Mon, 23 Jun 2025 13:05:06 -0600</lastBuildDate>
+        <pubDate>Fri, 18 Jul 2025 12:53:16 -0600</pubDate>
+        <lastBuildDate>Fri, 18 Jul 2025 12:53:16 -0600</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
         
             <item>
@@ -82,6 +82,8 @@
 &lt;h4 id=&quot;workshop&quot;&gt;Workshop&lt;/h4&gt;
 
 &lt;p&gt;Check out &lt;a href=&quot;https://tl4bssw.github.io/&quot;&gt;tl4bssw.github.io&lt;/a&gt; to learn about the workshop I organized in November 2024.&lt;/p&gt;
+
+&lt;p&gt;Acknowledgement: This work was supported by the Better Scientific Software Fellowship Program, a collaborative effort of the U.S. Department of Energy (DOE), Office of Advanced Scientific Research via ANL under Contract DE-AC02-06CH11357 and the National Nuclear Security Administration Advanced Simulation and Computing Program via LLNL under Contract DE-AC52-07NA27344; and by the National Science Foundation (NSF) via SHI under Grant No. 2327079.&lt;/p&gt;
 </description>
                 <pubDate>Fri, 01 Dec 2023 00:00:00 -0700</pubDate>
                 <link>http://localhost:4000/TL4BSSw/</link>
