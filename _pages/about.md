@@ -8,7 +8,7 @@ I'm a member of the faculty at the University of Montana (UM). Broadly, my inter
 
 Some of my recent accomplishments are highlighted below.
 
-- Co-organized the Toward Next-Generation Ecosystems for Scientific Computing Workshop hosted at Argonne National Laboratory (April-May 2025).
+- Co-organized the <a href="https://events.cels.anl.gov/event/602/overview">Toward Next-Generation Ecosystems for Scientific Computing Workshop</a> hosted at Argonne National Laboratory (April-May 2025).
 
 - <a href="https://tl4bssw.github.io">Organized the Team Learning for Better Scientific Software Workshop</a> hosted at the University of Central Florida's Institute for Simulation and Training (November 2024).
 
