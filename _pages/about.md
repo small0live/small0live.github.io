@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a member of the faculty at the University of Montana (UM). Broadly, my interests span the study of cognition, behavior, and technology in groups. I integrate approaches from the social and computational sciences to enhance teamwork. Currently, I serve as PI for a U.S. DOE sponsored research project on collaboration and software in scientific computing. My other research projects examine topics in training and expertise in human-machine systems. I also [teach in UM's Master of Science in Business Analytics program](/teaching/). 
+<a href="https://www.umt.edu/business-faculty-staff/directory/information-systems.php?ID=9093">I'm a member of the faculty at the University of Montana</a> (UM). Broadly, my interests span the study of cognition, behavior, and technology in groups. I integrate approaches from the social and computational sciences to enhance teamwork. Currently, I serve as subcontractor PI for a U.S. DOE sponsored research project on collaboration, community, and software in scientific computing. My other research projects examine training and expertise in human-machine systems. I also [teach in UM's Master of Science in Business Analytics program](/teaching/). 
 
 Some of my recent accomplishments are highlighted below.
 
