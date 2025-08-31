@@ -3,10 +3,10 @@
     <channel>
         <title>Olivia B. Newton, Ph.D.</title>
         <description>My website</description>
-        <link>http://localhost:4000/</link>
-        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 Aug 2025 17:43:32 -0600</pubDate>
-        <lastBuildDate>Thu, 21 Aug 2025 17:43:32 -0600</lastBuildDate>
+        <link>/</link>
+        <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 31 Aug 2025 10:29:23 -0600</pubDate>
+        <lastBuildDate>Sun, 31 Aug 2025 10:29:23 -0600</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
         
             <item>
@@ -16,8 +16,8 @@
 &lt;p&gt;I serve as PI at the University of Montana. My collaborators are Lois Curfman McInnes at Argonne National Laboratory and Denice Ward Hood at the University of Illinois.&lt;/p&gt;
 </description>
                 <pubDate>Mon, 30 Sep 2024 00:00:00 -0600</pubDate>
-                <link>http://localhost:4000/Next-Gen/</link>
-                <guid isPermaLink="true">http://localhost:4000/Next-Gen/</guid>
+                <link>/Next-Gen/</link>
+                <guid isPermaLink="true">/Next-Gen/</guid>
                 
                 
             </item>
@@ -50,8 +50,8 @@
 &lt;p&gt;&lt;img src=&quot;/images/psych_fid_HFESposter.png&quot; alt=&quot;Silva &amp;amp; Newton poster for HFES 2024.&quot; /&gt;&lt;/p&gt;
 </description>
                 <pubDate>Mon, 01 Jan 2024 00:00:00 -0700</pubDate>
-                <link>http://localhost:4000/Psych-Fid/</link>
-                <guid isPermaLink="true">http://localhost:4000/Psych-Fid/</guid>
+                <link>/Psych-Fid/</link>
+                <guid isPermaLink="true">/Psych-Fid/</guid>
                 
                 
             </item>
@@ -67,8 +67,8 @@
 &lt;p&gt;This project is in the analysis stage with the goal of submitting to a journal venue in the organizational sciences.&lt;/p&gt;
 </description>
                 <pubDate>Mon, 01 Jan 2024 00:00:00 -0700</pubDate>
-                <link>http://localhost:4000/Hybrid-Teams/</link>
-                <guid isPermaLink="true">http://localhost:4000/Hybrid-Teams/</guid>
+                <link>/Hybrid-Teams/</link>
+                <guid isPermaLink="true">/Hybrid-Teams/</guid>
                 
                 
             </item>
@@ -86,8 +86,8 @@
 &lt;p&gt;Acknowledgement: This work was supported by the Better Scientific Software Fellowship Program, a collaborative effort of the U.S. Department of Energy (DOE), Office of Advanced Scientific Research via ANL under Contract DE-AC02-06CH11357 and the National Nuclear Security Administration Advanced Simulation and Computing Program via LLNL under Contract DE-AC52-07NA27344; and by the National Science Foundation (NSF) via SHI under Grant No. 2327079.&lt;/p&gt;
 </description>
                 <pubDate>Fri, 01 Dec 2023 00:00:00 -0700</pubDate>
-                <link>http://localhost:4000/TL4BSSw/</link>
-                <guid isPermaLink="true">http://localhost:4000/TL4BSSw/</guid>
+                <link>/TL4BSSw/</link>
+                <guid isPermaLink="true">/TL4BSSw/</guid>
                 
                 
             </item>
